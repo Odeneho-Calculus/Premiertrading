@@ -1,0 +1,629 @@
+{
+    "Header": {
+      "Menu": {
+        "Home": "ホーム",
+        "About": "会社概要",
+        "AboutCompany": "会社について",
+        "Trading": "取引",
+        "Platform": "プラットフォーム",
+        "MetaTrader5": "Web",
+        "Services": "サービス",
+        "ServicesOverview": "サービス概要",
+        "PlatformTools": "プラットフォームとツール",
+        "Contact": "お問い合わせ"
+      }
+    },
+    "MobileMenu": {
+        "Home": "ホーム",
+        "About": "私たちについて",
+        "AboutCompany": "会社について",
+        "History": "歴史",
+        "TeamMembers": "チームメンバー",
+        "Faqs": "よくある質問",
+        "Trading": "取引",
+        "Services": "サービス",
+        "ServicesOverview": "サービスの概要",
+        "PlatformTools": "プラットフォームとツール",
+        "Contact": "連絡先",
+        "Twitter": "ツイッター",
+        "Facebook": "フェイスブック",
+        "Pinterest": "ピンタレスト",
+        "Instagram": "インスタグラム",
+        "YouTube": "ユーチューブ"
+    },
+    "Banner": {
+        "circleText": "投資 . 取引 . 成長 .",
+        "welcome": "プレミアクリプトトレーディングへようこそ",
+        "navigate": "デジタル資産市場を自信を持ってナビゲート",
+        "strategic_investment": "戦略的な暗号投資",
+        "diversify": "デジタル資産でポートフォリオを多様化",
+        "advanced_trading": "高度な取引プラットフォーム",
+        "trade_professionally": "プロのツールで暗号を取引",
+        "access_tools": "暗号市場での情報に基づいた投資判断を行うための高度な取引ツールとリアルタイム市場分析にアクセス。",
+        "secure_trading": "機関レベルのセキュリティと洗練されたリスク管理ツールで安全な取引を体験。",
+        "comprehensive_data": "当社のプロフェッショナルトレーディングプラットフォームで、包括的な市場データ、高度なチャートツール、シームレスな実行にアクセス。"
+    },
+    "Services": {
+      "sectionTitle": "サービス一覧",
+      "sectionSubtitle": "取引成功に必要なすべてのもの",
+      "service1": {
+        "label": "サービス #1",
+        "title": "通貨ペア分析",
+        "description": "適切な取引判断のための詳細な通貨ペア分析を提供します。",
+        "buttonText": "詳細を見る"
+      },
+      "service2": {
+        "label": "サービス #2",
+        "title": "プロップトレーディングアカウント",
+        "description": "最適なパフォーマンスと収益性を考慮して設計された専用取引口座へのアクセス。",
+        "buttonText": "詳細を見る"
+      },
+      "service3": {
+        "label": "サービス #3",
+        "title": "取引プラットフォームとツール",
+        "description": "取引体験を向上させる高度な取引プラットフォームとツール。",
+        "buttonText": "詳細を見る"
+      },
+      "service4": {
+        "label": "サービス #4",
+        "title": "取引モニタリングとサポート",
+        "description": "最適な結果を確保するための包括的な取引モニタリングとサポート。",
+        "buttonText": "詳細を見る"
+      },
+      "service5": {
+        "title": "財務成長のための専門家によるガイダンス",
+        "description": "効果的な取引戦略を開発するためのパーソナライズドコンサルティング。",
+        "buttonText": "今すぐ始める"
+      }
+    },
+    "Funfact": {
+        "keyMetrics": "主要指標",
+        "performance": "私たちのパフォーマンスの概要",
+        "averagePayout": "平均支払い処理時間",
+        "timeToOpenAccount": "取引口座を開設するまでの時間",
+        "numberOfTrades": "先月実行された取引の数",
+        "experience": "先物トレーダーへの資金提供の経験",
+        "topUp": "2024年後半の支払い詳細",
+        "million": "百万",
+        "day": "日",
+        "years": "年",
+        "hours": "時間",
+        "months": {
+            "apr": "7月",
+            "may": "8月",
+            "jun": "9月",
+            "jul": "10月",
+            "aug": "11月",
+            "sep": "12月"
+        }
+    },
+    "About": {
+        "about_title": "プレミアペイメントソリューションズ株式会社について",
+        "about_subtitle": "独自の外国為替取引の先駆者",
+        "about_description": "プレミアペイメントソリューションズ株式会社の資金調達で、資本の制約にもかかわらず富を増やしたい熟練のトレーダーの才能を育む独占的な取引のオアシスに足を踏み入れてください。",
+        "specialization_title": "専門分野",
+        "specializations": [
+            "自動取引",
+            "高頻度取引",
+            "テクニカル分析"
+        ]
+    },
+    "Work": {
+        "howItWorks": "どのように機能するか",
+        "understandingTheEvaluationProcess": "評価プロセスの理解",
+        "process": "プロセス",
+        "step1": {
+            "title": "ステップ #1",
+            "heading": "トレーディングチャレンジ",
+            "description": "実際の市場環境でスキルと戦略を示すために、トレーディングチャレンジに参加してください。"
+        },
+        "step2": {
+            "title": "ステップ #2",
+            "heading": "検証と取引",
+            "description": "検証が完了したら、提供された資金で取引を開始し、リターンを最大化するために戦略を適用できます。"
+        },
+        "step3": {
+            "title": "ステップ #3",
+            "heading": "収益を受け取る",
+            "description": "成功裏に取引を行った後、パフォーマンスと生成された利益に基づいて収益を受け取ります。"
+        }
+    },
+    "Pairs": {
+        "popular_pairs": "人気のペア",
+        "top_pairs_pricing": "市場のトップペアと価格",
+        "eur_usd": {
+            "currency": "ユーロ",
+            "exchange": "米ドル",
+            "price": "1.03",
+            "currency_rate": "+0.04%",
+            "sell": "1.03で売却",
+            "trade": "取引"
+        },
+        "usd_jpy": {
+            "currency": "米ドル",
+            "exchange": "円",
+            "price": "151.81",
+            "currency_rate": "+0.04%",
+            "sell": "151.81で売却",
+            "trade": "取引"
+        },
+        "gbp_usd": {
+            "currency": "ポンド",
+            "exchange": "米ドル",
+            "price": "1.24",
+            "currency_rate": "+0.05%",
+            "sell": "1.24で売却",
+            "trade": "取引"
+        },
+        "eur_gbp": {
+            "currency": "ユーロ",
+            "exchange": "ポンド",
+            "price": "0.83",
+            "currency_rate": "-0.12%",
+            "sell": "0.83で売却",
+            "trade": "取引"
+        },
+        "see_more_pairs": "さらにペアを見る"
+    },
+    "Chooseus": {
+        "key_features": "主な特徴",
+        "why_trade_with_us": "なぜ私たちと取引するのか",
+        "trading_access": {
+            "title": "24時間年中無休の取引アクセス",
+            "description": "プラットフォームの継続的な市場アクセスとリアルタイム実行で、暗号通貨をいつでも取引できます。"
+        },
+        "competitive_fees": {
+            "title": "競争力のある手数料",
+            "description": "業界をリードする取引手数料と、すべての暗号通貨ペアにわたる透明な価格構造をお楽しみください。"
+        },
+        "advanced_security": {
+            "title": "高度なセキュリティ",
+            "description": "あなたの資産は、コールドストレージやマルチシグネチャ認証などの機関レベルのセキュリティ対策によって保護されています。"
+        },
+        "multiple_trading_pairs": {
+            "title": "複数の取引ペア",
+            "description": "深い流動性と競争力のあるスプレッドを持つ幅広い暗号通貨取引ペアにアクセスできます。"
+        },
+        "professional_tools": {
+            "title": "プロフェッショナルツール",
+            "description": "情報に基づいた取引決定のために、高度なチャート、テクニカル指標、マーケット分析ツールを活用してください。"
+        },
+        "dedicated_support": {
+            "title": "専任サポート",
+            "description": "取引や技術的なニーズに対して、24時間年中無休のカスタマーサポートチームから専門的な支援を受けてください。"
+        }
+    },
+    "Testimonial": {
+        "sectionTitle": "テスティモニアル",
+        "mainTitle": "トレーダーの声",
+        "trustpilot": {
+            "title": "トラストパイロット",
+            "rating": "最高評価",
+            "score": "4.9/5",
+            "reviewCount": "(150万人のトレーダーによるレビュー)"
+        },
+        "shareThoughts": "私たちのサービスについてのあなたの考えを共有してください",
+        "testimonials": [
+            {
+                "author": "ナサン・フェリックス",
+                "designation": "ナクスリー・インフォ・テックのディレクター",
+                "experienceTitle": "素晴らしい体験",
+                "experienceDescription": "このプラットフォームは私の取引体験を変え、より効率的で利益を上げるものにしました。",
+                "rating": 5
+            },
+            {
+                "author": "エロイーズ・ジュニパー",
+                "designation": "シンククエスト・テクノロジーズの創設者",
+                "experienceTitle": "シンプルで効率的",
+                "experienceDescription": "提供されたツールは、取引を簡単かつ効果的にしました。",
+                "rating": 5
+            }
+        ]
+    },
+    "Featured": {
+        "industryRecognition": "業界の認識",
+        "featuredIn": "主要な金融メディアに特集",
+        "topCryptoExchange": "トップ暗号交換2024",
+        "bestTradingPlatform": "最高の取引プラットフォーム",
+        "mostSecureExchange": "最も安全な取引所",
+        "excellenceInInnovation": "革新の卓越性",
+        "bestCustomerService": "最高のカスタマーサービス",
+        "mostTrustedBrand": "最も信頼されるブランド",
+        "fastestGrowingExchange": "最も成長している取引所",
+        "bestMobileTradingApp": "最高のモバイル取引アプリ"
+    },
+
+    "ServiceDetail": {
+        "title1": "サービス",
+        "title2": "通貨ペア",
+        "currencyPairs": "XAUUSD & インデックス",
+        "tradingAccount": "取引口座",
+        "platformsAndTools": "プラットフォーム & ツール",
+        "monitoringAndSupport": "モニタリング & サポート",
+        "educationAndTraining": "教育 & トレーニング",
+        "tradingConfidence": "自信を持って取引し、Premierで勝利を掴む！...",
+        "navigatingMarkets": "市場を切り拓き、利益を最大化する。",
+        "introducingPlatforms": "プラットフォーム & ツールのご紹介",
+        "introText": "当社のプラットフォームを使えば、シームレスな取引が可能です。Premier トレードは、幅広い取引ツールとカスタムオプションをサポートしており、取引のあらゆる段階を完全にコントロールできます。また、ウェブ版も提供しているため、ソフトウェアをダウンロードする必要なくブラウザから直接取引が可能です。リアルタイムの市場変動に常に接続し、いつでもどこでも注文を実行できます。",
+        "benefitsTitle": "プラットフォーム & ツールの利点",
+        "benefitsSubtext": "私たちが最も得意とすることを妨げるものはなく、あらゆる喜びが歓迎されます。",
+        "serviceD1": {
+          "content1": {
+            "title": "XAUUSD & インデックスのご紹介",
+            "description": "世界で最も人気のあるXAUUSDや、株価指数、商品指数などのインデックスを取引しましょう。金や指数の取引を通じて、市場の変動を活用し、投資戦略を最適化し、柔軟な取引機会を捉えることができます。市場が上昇しても下落しても、さまざまな取引ツールを駆使して自信を持って市場に臨めます。"
+          },
+          "content2": {
+            "title": "通貨ペアの利点",
+            "description": "通貨ペアの取引は、高い流動性、狭いスプレッド、多様な市場機会を提供します。主要、マイナー、エキゾチックなペアへのアクセスにより、トレーダーは世界経済の動向を活用し、リスクをヘッジし、24時間5日の分散型市場で戦略を実行できます。"
+          }
+        },
+        "serviceD2": {
+          "content1": {
+            "title": "取引口座のご紹介",
+            "description": "お客様のニーズに合わせた多様な口座タイプからお選びいただけます。初心者でも経験豊富なトレーダーでも、競争力のあるスプレッドと高度なツールを備えた口座をご提供し、財務目標の達成をサポートします。デモ口座ではリスクなしで市場に慣れることができ、プロフェッショナル口座では高速な注文実行、低スプレッド、さらなるカスタマイズオプションが提供され、より複雑な取引ニーズに対応します。"
+          },
+          "content2": {
+            "title": "取引口座の利点",
+            "description": "取引口座は、暗号通貨市場へのシームレスなアクセスを提供し、安全な取引、リアルタイム分析、そして利益最大化のための戦略的な取引機会を実現します。"
+          }
+        },
+        "serviceD4": {
+          "content1": {
+            "title": "モニタリング & サポートのご紹介",
+            "description": "当社のプラットフォームは、リアルタイムの市場監視ツールを提供し、価格変動を把握するのに役立ちます。口座管理、取引実行、技術サポートなど、24時間365日のカスタマーサポートチームが常にサポートいたします。迅速な対応を保証し、スムーズで安心な取引体験をお約束します。"
+          },
+          "content2": {
+            "title": "モニタリング & サポートの利点",
+            "description": "定期的な監視と専門的なサポートにより、安全かつ最適化された暗号通貨投資が実現し、リスクの軽減、機会の活用、そして変動の激しい市場でのリターン最大化を支援します。"
+          }
+        },
+        "serviceD5": {
+          "content1": {
+            "title": "教育 & トレーニングのご紹介",
+            "description": "包括的な教育とトレーニングにより、トレーダーは暗号通貨および金融市場を切り拓くために必要な知識とスキルを身につけることができます。当社のプログラムは、ファンダメンタルズ分析、テクニカル分析、リスク管理戦略、実践的な取引シミュレーションを通じて、自信と意思決定力を向上させます。"
+          },
+          "content2": {
+            "title": "教育 & トレーニングの利点",
+            "description": "適切な取引教育を受けることで、市場の洞察、リスク管理手法、そして戦略的計画が身につきます。専門家の指導と実践的なトレーニングにより、取引スキルを向上させ、情報に基づいた意思決定を行い、ダイナミックな暗号通貨市場での収益性を最大化できます。"
+          }
+        },
+        "benefits": {
+          "diversification": {
+            "title": "分散投資",
+            "shortDesc": "PREMIERプラットフォームは、外国為替、株式、暗号通貨など幅広い分野で分散投資を可能にし、グローバルな投資家のニーズに応える多様な取引ツールと市場の深みを提供します。",
+            "longDesc": "多様な取引パートナーにより、市場の深みと安定性が向上します。"
+          },
+          "globalExposure": {
+            "title": "グローバルな露出",
+            "shortDesc": "PREMIERプラットフォームは大規模なグローバルユーザーベースを持ち、強固な流動性、安定した取引環境、高速な注文実行により、シームレスな投資体験を実現します。投資家に安定かつ効率的な取引環境を提供します。",
+            "longDesc": "比類なき流動性を誇るグローバルなユーザーカバレッジ。"
+          },
+          "technicalAnalysis": {
+            "title": "テクニカル分析",
+            "shortDesc": "PREMIERプラットフォームは先進のテクニカル分析ツールを使用して、トレーダーに正確かつ効率的な市場の洞察を提供し、投資判断を支援します。ビッグデータと人工知能を統合することで、リアルタイムの市場更新を実現し、取引実行の効率を最適化します。",
+            "longDesc": "最先端の技術サポートにより、スムーズで安定した取引体験が保証されます。"
+          },
+          "profitPotential": {
+            "title": "収益の可能性",
+            "shortDesc": "PREMIERプラットフォームは最大1:400のレバレッジを提供し、少額の資金で大きな市場機会にアクセスできるため、取引効率と収益の可能性を向上させ、急速に変化する市場でより多くのチャンスを捉えることが可能です。",
+            "longDesc": "投資家の資本効率を高め、より広い市場で高いリターンを実現するのに役立ちます。"
+          }
+        },
+        "features": [
+          "進捗の評価",
+          "継続的な改善",
+          "24時間365日のカスタマーサポート"
+        ],
+        "whatsProvided": {
+          "title": "提供されるもの",
+          "description": "成功を支援するために、幅広い取引ツールを提供しています。リアルタイムの市場分析から柔軟なレバレッジ＆マージンまで、効果的な取引に必要なすべてを当社のプラットフォームが提供します。様々な通貨での便利な入金オプションにより、資金管理が容易になり、取引に集中できます。"
+        },
+        "tabs": {
+          "pairSelection": "ペア選択",
+          "majorCurrencyPair": "人気の取引ペア",
+          "minorExoticPairs": "マイナー & エキゾチックペア",
+          "marketAnalysis": "市場分析",
+          "leverageMargin": "レバレッジ & マージン",
+          "tabContent": {
+            "features": [
+              "市場の好みに合わせて幅広い外国為替ペアから選択できます。主要、マイナー、またはエキゾチックなペアから、取引戦略に適したものを選ぶことができます。",
+              "XAUUSDのような市場で最も注目されるペアを取引し、そのボラティリティと流動性を活用しましょう。これらのペアは、トレーダーの人気と世界的な商品の需要により、重要な取引機会を提供します。",
+              "専門家の市場洞察と分析を活用して、トレンドを先取りしましょう。包括的な市場調査により、主要な市場動向を把握し、情報に基づいた取引判断を下すことができます。",
+              "レバレッジとマージンの仕組みを理解し、取引力を強化しましょう。レバレッジを活用して潜在的なリターンを最大化し、マージン要件を管理してリスクをコントロールします。"
+            ]
+          }
+        },
+        "cryptoInvestment": {
+          "title": "暗号通貨投資はどのように機能するのか？",
+          "description": "暗号通貨への投資は、ブロックチェーン技術を利用したデジタル資産を購入することを含みます。これらの資産は時間とともに価値が上昇する可能性がありますが、リスクも伴います。プロセスを理解することは、情報に基づいた投資判断を下すために不可欠です。",
+          "steps": {
+            "openAccount": {
+              "title": "取引口座を開設する",
+              "description": "暗号通貨への投資を開始するには、信頼できる取引所で口座を開設する必要があります。このプロセスでは、通常、個人情報の提供および本人確認が求められます。"
+            },
+            "fundTransfer": {
+              "title": "安全かつ簡単な資金移動",
+              "description": "口座が設定されたら、銀行振込、クレジットカード、または他の暗号通貨など、さまざまな方法で安全に資金を移動できます。資産を保護するために、セキュリティプロトコルに従うことを確認してください。"
+            },
+            "exploreCrypto": {
+              "title": "暗号通貨市場を探索する",
+              "description": "口座に資金を入金した後、さまざまな暗号通貨市場を探索できます。各種コインを調査し、市場動向を分析し、どの資産に投資するかを情報に基づいて判断してください。"
+            }
+          }
+        }
+      },
+    "OurServices": {
+        "pageTitle": "サービス",
+        "service1": {
+            "label": "サービス #1",
+            "title": "市場分析と戦略",
+            "description": "戦略的な取引機会を特定するための暗号通貨市場の専門的な技術的・基本的分析。",
+            "button": "詳細を見る"
+        },
+        "service2": {
+            "label": "サービス #2",
+            "title": "ポートフォリオ管理",
+            "description": "リスク評価と分散戦略を含む包括的な暗号通貨ポートフォリオ管理サービス。",
+            "button": "詳細を見る"
+        },
+        "service3": {
+            "label": "サービス #3",
+            "title": "高度な取引ツール",
+            "description": "リアルタイム分析と自動取引機能を備えた高度な暗号通貨取引プラットフォームへのアクセス。",
+            "button": "詳細を見る"
+        },
+        "service4": {
+            "label": "サービス #4",
+            "title": "セキュリティとリスク管理",
+            "description": "暗号通貨投資を保護するための包括的なセキュリティプロトコルとリスク管理戦略。",
+            "button": "詳細を見る"
+        },
+        "service5": {
+            "label": "サービス #5",
+            "title": "投資教育",
+            "description": "暗号通貨市場の理解と取引のための包括的な教育リソースとトレーニングプログラム。",
+            "button": "詳細を見る"
+        },
+        "service6": {
+            "label": "サービス #6",
+            "title": "市場情報",
+            "description": "最新の暗号通貨市場調査、トレンド分析、実用的な投資洞察。",
+            "button": "詳細を見る"
+        },
+        "cta": {
+            "title": "サービスについてご質問がありますか？",
+            "description": "パーソナライズされた暗号通貨投資ガイダンスについて、専門家チームにお問い合わせください。",
+            "emailLabel": "メールアドレス",
+            "email": "info@premiertradingplatform.com"
+        }
+    },
+
+    "MetaTrader4": {
+        "platform": {
+          "title": "Premier プラットフォーム",
+          "subtitle": "Premier を利用しますか？Premierで独自のツールを手に入れよう",
+          "description": "快楽を否定し苦痛を称賛するという考えは、そのシステムの全容を明らかにし、実際の教えを詳述します。",
+          "features": {
+            "feature1": "超高速な取引実行",
+            "feature2": "スマートフォンやタブレットからの取引",
+            "feature3": "ディーリングデスクなし、リクオートなし"
+          }
+        },
+        "download": {
+          "title": "Premier トレードをダウンロード",
+          "mobile": {
+            "title": "モバイルユーザー向け",
+            "subtitle": "Premier トレード",
+            "description": "Android および iPhone プラットフォームで利用可能。"
+          },
+          "desktop": {
+            "title": "デスクトップユーザー向け",
+            "subtitle": "Premier トレード",
+            "description": "Windows および macOS プラットフォームで利用可能。"
+          },
+          "web": {
+            "title": "ウェブターミナル向け",
+            "subtitle": "Premier トレード",
+            "description": "ウェブブラウザから直接取引。"
+          }
+        },
+        "tutorial": {
+          "title": "プラットフォーム機能の探求",
+          "subtitle": "Premier プラットフォームで市場を自在にコントロール",
+          "videoTitle": "外国為替取引入門",
+          "duration": "所要時間: 6.05分",
+          "description": "外国為替市場の動向を深く理解し、主要な取引戦略を習得して、グローバル市場でのチャンスをつかみましょう。"
+        },
+        "features": {
+          "title": "主なハイライト",
+          "subtitle": "Premier プラットフォームの特徴",
+          "items": {
+            "item1": "90%効率的な取引実行",
+            "item2": "10%の注文処理最適化",
+            "item3": "1ステップ評価"
+          }
+        },
+        "cta": {
+          "title": "Premierがあなたに適しているか分かりませんか？",
+          "subtitle": "プラットフォームの機能比較については、当社の表をご覧ください。",
+          "contact": {
+            "email": {
+              "label": "メールでお問い合わせ！",
+              "value": "info@premiertradingplatform.com"
+            }
+          }
+        },
+        "onImg": {
+          "multiChart": "複数チャート表示",
+          "newfeed": "ニュースフィード"
+        }
+      },
+      "Footer": {
+        "BecomeAPart": "参加する",
+        "UpdateCommunity": "最新情報コミュニティの一員に",
+        "Subscribers": "購読者",
+        "RegulatedBy": "米国MSBにより規制, 番号: 31000288258194.",
+        "Trading": {
+          "Title": "取引",
+          "MetaTrader4": "Premier トレード",
+          "MetaTrader5": "ウェブ"
+        },
+        "Services": {
+          "Title": "サービス",
+          "ServicesOverview": "サービス概要",
+          "CurrencyPairs": "通貨ペア",
+          "TradingAccounts": "取引口座",
+          "PlatformTools": "プラットフォーム & ツール",
+          "MonitoringSupports": "モニタリング & サポート",
+          "EducationTraining": "教育 & トレーニング",
+          "AboutCompany": "会社情報",
+          "Contact": "お問い合わせ"
+        },
+        "Downloads": {
+          "AppStore": "App Store",
+          "GooglePlay": "Google Play",
+          "webver": "ウェブ版",
+          "h5ver": "H5版"
+        },
+        "Copyright": "専門知識で作られました。全著作権所有。",
+        "Social": {
+          "Title": "ソーシャル連携",
+          "Facebook": "Facebook",
+          "Twitter": "Twitter",
+          "Instagram": "Instagram",
+          "YouTube": "YouTube",
+          "Pinterest": "Pinterest"
+        },
+        "Legal": {
+          "PrivacyPolicy": "プライバシーポリシー",
+          "TermsConditions": "利用規約",
+          "Legal": "法的情報"
+        }
+      },
+    "AboutPage": {
+        "breadcrumbTitle": "会社について",
+        "mainTitle": "プレミアペイメントソリューションズ株式会社について",
+        "subTitle": "独自の外国為替取引のリーダー",
+        "description": "当社の外国為替会社は、革新的な取引ソリューション、専門家による分析、そして卓越した顧客サポートを提供し、トレーダーがダイナミックな外国為替市場で成功できるよう支援しています。",
+        "awards": {
+            "globalForex": {
+                "title": "グローバルフォレックスアワード",
+                "date": "2023年3月"
+            },
+            "customerService": {
+                "title": "最優秀カスタマーサービス",
+                "date": "2022年6月"
+            }
+        },
+        "ceoInfo": {
+            "name": "タイムール・イクバル",
+            "title": "CEO兼創業者",
+            "description": "必然的に発生する困難と問題を予見します。"
+        },
+        "experience": {
+            "years": "10+",
+            "title": "年",
+            "subtitle": "市場での経験"
+        },
+        "performance": {
+            "title": "昨年の成功率",
+            "value": "84.65%",
+            "increase": "+6.39%"
+        },
+        "corporateJourney": {
+            "title": "企業の歩み",
+            "subtitle": "外国為替の世界で、私たちはリーダーです",
+            "evolution": {
+                "title": "進化",
+                "description": "苦痛そのものを愛したり追求したりする人はいません。"
+            }
+        },
+        "stats": {
+            "payoutTime": {
+                "value": "24",
+                "unit": "時間",
+                "description": "平均支払い処理時間"
+            },
+            "accountEarning": {
+                "value": "1",
+                "unit": "日",
+                "description": "取引口座獲得までの時間"
+            },
+            "trades": {
+                "value": "900",
+                "unit": "百万",
+                "description": "先月の取引開設数"
+            },
+            "fundingExperience": {
+                "value": "10+",
+                "unit": "年",
+                "description": "先物トレーダーへの資金提供"
+            }
+        },
+        "statements": {
+            "title": "声明",
+            "subtitle": "当社の外国為替会社の指導原則",
+            "mission": {
+                "title": "私たちのミッション",
+                "description": "不快な結果のない喜びを選ぶ人、または苦痛を避ける人。"
+            },
+            "vision": {
+                "title": "私たちのビジョン",
+                "description": "意志の弱さにより義務を果たせない人々にも同じ責任があります。"
+            },
+            "coreValues": {
+                "title": "私たちの核心的価値",
+                "description": "不快な結果のない喜びを選ぶ人の欠点を見つけてください。",
+                "values": [
+                    "誠実さ",
+                    "顧客中心",
+                    "革新",
+                    "リスク管理",
+                    "プロフェッショナリズム"
+                ]
+            }
+        },
+        "team": {
+            "title": "チームメンバー",
+            "subtitle": "私たちの成功を支えるチーム",
+            "members": [
+                {
+                    "name": "タイムール・イクバル",
+                    "role": "創業者",
+                    "description": "必然的に発生する困難と問題を予見します。"
+                },
+                {
+                    "name": "ジェラルド・アイバー",
+                    "role": "最高財務責任者",
+                    "description": "私たちが最も好きなことができる能力、すべての喜びが生まれます。"
+                },
+                {
+                    "name": "ノラ・リリアン",
+                    "role": "トレーディング責任者",
+                    "description": "これらの問題においてこの選択の原則を維持します。"
+                },
+                {
+                    "name": "ミハル・スターク",
+                    "role": "市場アナリスト",
+                    "description": "より大きな喜びを確保するために喜びを拒否します。"
+                }
+            ]
+        }
+    },
+    "contactUs": {
+    "sendMessage": "メッセージを送る",
+    "getInTouch": "お問い合わせ",
+    "assistMessage": "私たちはあなたをサポートします。お気軽にメッセージをお送りください。",
+    "connectWithUs": "私たちとつながる",
+    "companyEmail": "会社のメール",
+    "emailAddress": "info@premiertradingplatform.com",
+    "officeAddress": "本社住所",
+    "address": {
+        "street": "30 チャーチル・プレイス",
+        "city": "カナリー・ワーフ、ロンドン",
+        "country": "イギリス、E14 5RE"
+    },
+    "customerService": "オンラインカスタマーサービス"
+}
+
+}

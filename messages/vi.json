@@ -1,0 +1,633 @@
+{
+    "Header": {
+      "Menu": {
+        "Home": "Trang chủ",
+        "About": "Về chúng tôi",
+        "AboutCompany": "Giới thiệu công ty",
+        "Trading": "Giao dịch",
+        "Platform": "Nền tảng",
+        "MetaTrader4": "Premier Trade",
+        "MetaTrader5": "Web",
+        "Services": "Dịch vụ",
+        "ServicesOverview": "Tổng quan dịch vụ",
+        "PlatformTools": "Nền tảng & Công cụ",
+        "Contact": "Liên hệ"
+      }
+    },
+    "MobileMenu": {
+        "Home": "Trang chủ",
+        "About": "Về chúng tôi",
+        "AboutCompany": "Giới thiệu công ty",
+        "History": "Lịch sử",
+        "TeamMembers": "Thành viên nhóm",
+        "Faqs": "Câu hỏi thường gặp",
+        "Trading": "Giao dịch",
+        "Services": "Dịch vụ",
+        "ServicesOverview": "Tổng quan dịch vụ",
+        "PlatformTools": "Nền tảng & Công cụ",
+        "Contact": "Liên hệ",
+        "Twitter": "Twitter",
+        "Facebook": "Facebook",
+        "Pinterest": "Pinterest",
+        "Instagram": "Instagram",
+        "YouTube": "YouTube"
+    },
+  "Banner": {
+        "circleText": "Đầu tư . Giao dịch . Phát triển .",
+        "welcome": "Chào mừng đến với Giao dịch Crypto Cao cấp",
+        "navigate": "Dẫn dắt Thị trường Tài sản Kỹ thuật số với Sự tự tin",
+        "strategic_investment": "Đầu tư Crypto Chiến lược",
+        "diversify": "Đa dạng hóa Danh mục Đầu tư của bạn với Tài sản Kỹ thuật số",
+        "advanced_trading": "Nền tảng Giao dịch Nâng cao",
+        "trade_professionally": "Giao dịch Crypto với Công cụ Chuyên nghiệp",
+        "access_tools": "Truy cập các công cụ giao dịch tiên tiến và phân tích thị trường theo thời gian thực để đưa ra quyết định đầu tư thông minh trong thị trường tiền điện tử.",
+        "secure_trading": "Trải nghiệm giao dịch an toàn với bảo mật cấp tổ chức và các công cụ quản lý rủi ro tinh vi.",
+        "comprehensive_data": "Truy cập dữ liệu thị trường toàn diện, công cụ biểu đồ nâng cao và thực hiện liền mạch trên nền tảng giao dịch chuyên nghiệp của chúng tôi."
+    },
+    "Services": {
+      "sectionTitle": "Dịch Vụ Của Chúng Tôi",
+      "sectionSubtitle": "Mọi Thứ Bạn Cần cho Thành Công Trong Giao Dịch",
+      "service1": {
+        "label": "Dịch Vụ #1",
+        "title": "Phân Tích Cặp Tiền Tệ",
+        "description": "Phân tích chuyên sâu các cặp tiền tệ để giúp bạn đưa ra quyết định giao dịch sáng suốt.",
+        "buttonText": "Khám Phá"
+      },
+      "service2": {
+        "label": "Dịch Vụ #2",
+        "title": "Tài Khoản Giao Dịch Độc Quyền",
+        "description": "Truy cập vào tài khoản giao dịch độc quyền được thiết kế để tối ưu hiệu suất và lợi nhuận.",
+        "buttonText": "Khám Phá"
+      },
+      "service3": {
+        "label": "Dịch Vụ #3",
+        "title": "Nền Tảng và Công Cụ Giao Dịch",
+        "description": "Nền tảng và công cụ giao dịch tiên tiến để nâng cao trải nghiệm giao dịch của bạn.",
+        "buttonText": "Khám Phá"
+      },
+      "service4": {
+        "label": "Dịch Vụ #4",
+        "title": "Giám Sát và Hỗ Trợ Giao Dịch",
+        "description": "Giám sát và hỗ trợ giao dịch toàn diện để đảm bảo kết quả tối ưu.",
+        "buttonText": "Khám Phá"
+      },
+      "service5": {
+        "title": "Hướng Dẫn Chuyên Gia cho Tăng Trưởng Tài Chính",
+        "description": "Tư vấn cá nhân hóa để phát triển chiến lược giao dịch hiệu quả.",
+        "buttonText": "Bắt Đầu Ngay"
+      }
+    },
+    "Funfact": {
+        "keyMetrics": "Chỉ số chính",
+        "performance": "Hiệu suất của chúng tôi trong cái nhìn tổng quan",
+        "averagePayout": "Thời gian xử lý thanh toán trung bình",
+        "timeToOpenAccount": "Thời gian mở tài khoản giao dịch",
+        "numberOfTrades": "Số lượng giao dịch thực hiện trong tháng trước",
+        "experience": "Kinh nghiệm trong việc tài trợ cho các nhà giao dịch tương lai",
+        "topUp": "Chi tiết thanh toán cho nửa cuối năm 2024",
+        "million": "Triệu",
+        "day": "Ngày",
+        "years": "Năm",
+        "hours": "Giờ",
+        "months": {
+            "apr": "Tháng 7",
+            "may": "Tháng 8",
+            "jun": "Tháng 9",
+            "jul": "Tháng 10",
+            "aug": "Tháng 11",
+            "sep": "Tháng 12"
+        }
+    },
+    "About": {
+        "about_title": "Về Premier Payment Solutions LTD",
+        "about_subtitle": "Nhà tiên phong trong giao dịch forex độc quyền",
+        "about_description": "Bước vào thế giới tài chính kỳ diệu với Premier Payment Solutions LTD, một nguồn vốn độc quyền nuôi dưỡng tài năng của các nhà giao dịch có kỹ năng khao khát mở rộng tài sản của họ bất chấp những hạn chế về vốn.",
+        "specialization_title": "Chuyên môn",
+        "specializations": [
+            "Giao dịch tự động",
+            "Giao dịch tần suất cao",
+            "Phân tích kỹ thuật"
+        ]
+    },
+    "Work": {
+        "howItWorks": "Cách thức hoạt động",
+        "understandingTheEvaluationProcess": "Hiểu quy trình đánh giá",
+        "process": "Quy trình",
+        "step1": {
+            "title": "Bước #1",
+            "heading": "Thử thách giao dịch",
+            "description": "Tham gia thử thách giao dịch của chúng tôi để thể hiện kỹ năng và chiến lược của bạn trong môi trường thị trường thực tế."
+        },
+        "step2": {
+            "title": "Bước #2",
+            "heading": "Xác minh & Giao dịch",
+            "description": "Sau khi được xác minh, bạn có thể bắt đầu giao dịch với số vốn được cung cấp, áp dụng chiến lược của bạn để tối đa hóa lợi nhuận."
+        },
+        "step3": {
+            "title": "Bước #3",
+            "heading": "Nhận thu nhập của bạn",
+            "description": "Sau khi giao dịch thành công, bạn sẽ nhận được thu nhập dựa trên hiệu suất và lợi nhuận đã tạo ra."
+        }
+    },
+    "Pairs": {
+        "popular_pairs": "Cặp phổ biến",
+        "top_pairs_pricing": "Cặp hàng đầu & Giá cả trên thị trường",
+        "eur_usd": {
+            "currency": "EUR",
+            "exchange": "USD",
+            "price": "1.03",
+            "currency_rate": "+0.04%",
+            "sell": "Bán ở 1.03",
+            "trade": "Giao dịch"
+        },
+        "usd_jpy": {
+            "currency": "USD",
+            "exchange": "JPY",
+            "price": "151.81",
+            "currency_rate": "+0.04%",
+            "sell": "Bán ở 151.81",
+            "trade": "Giao dịch"
+        },
+        "gbp_usd": {
+            "currency": "GBP",
+            "exchange": "USD",
+            "price": "1.24",
+            "currency_rate": "+0.05%",
+            "sell": "Bán ở 1.24",
+            "trade": "Giao dịch"
+        },
+        "eur_gbp": {
+            "currency": "EUR",
+            "exchange": "GBP",
+            "price": "0.83",
+            "currency_rate": "-0.12%",
+            "sell": "Bán ở 0.83",
+            "trade": "Giao dịch"
+        },
+        "see_more_pairs": "Xem thêm cặp"
+    },
+    "Chooseus": {
+        "key_features": "Tính Năng Chính",
+        "why_trade_with_us": "Tại Sao Nên Giao Dịch Với Chúng Tôi",
+        "trading_access": {
+            "title": "Truy Cập Giao Dịch 24/7",
+            "description": "Giao dịch tiền điện tử quanh năm với quyền truy cập thị trường liên tục và thực hiện theo thời gian thực của nền tảng chúng tôi."
+        },
+        "competitive_fees": {
+            "title": "Phí Cạnh Tranh",
+            "description": "Tận hưởng phí giao dịch hàng đầu trong ngành và cấu trúc giá minh bạch trên tất cả các cặp tiền điện tử."
+        },
+        "advanced_security": {
+            "title": "Bảo Mật Nâng Cao",
+            "description": "Tài sản của bạn được bảo vệ bởi các biện pháp an ninh cấp tổ chức bao gồm lưu trữ lạnh và xác thực đa chữ ký."
+        },
+        "multiple_trading_pairs": {
+            "title": "Nhiều Cặp Giao Dịch",
+            "description": "Truy cập vào nhiều cặp giao dịch tiền điện tử với tính thanh khoản sâu và chênh lệch cạnh tranh."
+        },
+        "professional_tools": {
+            "title": "Công Cụ Chuyên Nghiệp",
+            "description": "Sử dụng biểu đồ nâng cao, chỉ báo kỹ thuật và công cụ phân tích thị trường để đưa ra quyết định giao dịch thông minh."
+        },
+        "dedicated_support": {
+            "title": "Hỗ Trợ Tận Tâm",
+            "description": "Nhận sự hỗ trợ từ đội ngũ chăm sóc khách hàng 24/7 của chúng tôi cho tất cả các nhu cầu giao dịch và kỹ thuật của bạn."
+        }
+    },
+    "Testimonial": {
+        "sectionTitle": "Chứng thực",
+        "mainTitle": "Những gì các nhà giao dịch của chúng tôi đang nói",
+        "trustpilot": {
+            "title": "Trustpilot",
+            "rating": "Đánh giá tốt nhất",
+            "score": "4.9/5",
+            "reviewCount": "(Được đánh giá bởi 1.5 triệu nhà giao dịch)"
+        },
+        "shareThoughts": "Chia sẻ suy nghĩ của bạn về dịch vụ của chúng tôi",
+        "testimonials": [
+            {
+                "author": "Nathan Felix",
+                "designation": "Giám đốc @ Naxly Info Tech",
+                "experienceTitle": "Trải nghiệm xuất sắc",
+                "experienceDescription": "Nền tảng này đã biến đổi trải nghiệm giao dịch của tôi, khiến nó hiệu quả và có lợi hơn.",
+                "rating": 5
+            },
+            {
+                "author": "Eloise Juniper",
+                "designation": "Người sáng lập, Thinkquest Technologies",
+                "experienceTitle": "Đơn giản và hiệu quả",
+                "experienceDescription": "Các công cụ được cung cấp đã làm cho việc giao dịch trở nên đơn giản và hiệu quả.",
+                "rating": 5
+            }
+        ]
+    },
+    "Featured": {
+        "industryRecognition": "Sự công nhận trong ngành",
+        "featuredIn": "Được giới thiệu trên các phương tiện truyền thông tài chính hàng đầu",
+        "topCryptoExchange": "Sàn giao dịch tiền điện tử hàng đầu 2024",
+        "bestTradingPlatform": "Nền tảng giao dịch tốt nhất",
+        "mostSecureExchange": "Sàn giao dịch an toàn nhất",
+        "excellenceInInnovation": "Sự xuất sắc trong đổi mới",
+        "bestCustomerService": "Dịch vụ khách hàng tốt nhất",
+        "mostTrustedBrand": "Thương hiệu đáng tin cậy nhất",
+        "fastestGrowingExchange": "Sàn giao dịch phát triển nhanh nhất",
+        "bestMobileTradingApp": "Ứng dụng giao dịch di động tốt nhất"
+    },
+
+    "MetaTrader4": {
+        "platform": {
+          "title": "Nền tảng Premier",
+          "subtitle": "Dùng Premier? Nhận công cụ độc quyền với Premier",
+          "description": "Chúng tôi phản đối sự lười biếng và ca ngợi nỗ lực, sẽ mang đến cho bạn hệ thống tài khoản đầy đủ và giải thích các nguyên tắc thực tế.",
+          "features": {
+            "feature1": "Khớp lệnh siêu nhanh",
+            "feature2": "Giao dịch từ điện thoại hoặc máy tính bảng",
+            "feature3": "Không bàn giao dịch, không requotes"
+          }
+        },
+        "download": {
+          "title": "Tải Premier Giao dịch",
+          "mobile": {
+            "title": "Cho người dùng di động",
+            "subtitle": "Premier Giao dịch",
+            "description": "Có sẵn trên nền tảng Android & iPhone."
+          },
+          "desktop": {
+            "title": "Cho người dùng máy tính",
+            "subtitle": "Premier Giao dịch",
+            "description": "Có sẵn trên nền tảng Windows & macOS."
+          },
+          "web": {
+            "title": "Cho Web Terminal",
+            "subtitle": "Premier Giao dịch",
+            "description": "Giao dịch trực tiếp qua trình duyệt web."
+          }
+        },
+        "tutorial": {
+          "title": "Khám phá tính năng nền tảng",
+          "subtitle": "Nền tảng Premier dễ dàng kiểm soát thị trường",
+          "videoTitle": "Giới thiệu về giao dịch forex",
+          "duration": "Thời lượng: 6 phút 05 giây",
+          "description": "Hiểu sâu về động thái thị trường forex, làm chủ các chiến lược giao dịch cốt lõi và định vị bản thân để nắm bắt cơ hội trên thị trường toàn cầu."
+        },
+        "features": {
+          "title": "Điểm nổi bật",
+          "subtitle": "Tính năng nền tảng Premier",
+          "items": {
+            "item1": "Khớp lệnh hiệu quả 90%",
+            "item2": "Tối ưu xử lý lệnh 10%",
+            "item3": "Đánh giá 1 bước"
+          }
+        },
+        "cta": {
+          "title": "Không chắc Premier có phù hợp với bạn?",
+          "subtitle": "Để so sánh tính năng nền tảng, tham khảo bảng của chúng tôi.",
+          "contact": {
+            "email": {
+              "label": "Gửi mail cho chúng tôi!",
+              "value": "info@premiertradingplatform.com"
+            }
+          }
+        },
+        "onImg": {
+          "multiChart": "Đa Biểu đồ",
+          "newfeed": "Bảng tin"
+        }
+      },
+    
+      "Footer": {
+        "BecomeAPart": "Trở thành một phần",
+        "UpdateCommunity": "của cộng đồng cập nhật...",
+        "Subscribers": "Người đăng ký",
+        "RegulatedBy": "Được quản lý bởi MSB tại Hoa Kỳ, Số: 31000288258194.",
+        "Trading": {
+          "Title": "Giao dịch",
+          "MetaTrader4": "Premier Giao dịch",
+          "MetaTrader5": "Web"
+        },
+        "Services": {
+          "Title": "Dịch vụ",
+          "ServicesOverview": "Tổng quan dịch vụ",
+          "CurrencyPairs": "Cặp tiền tệ",
+          "TradingAccounts": "Tài khoản giao dịch",
+          "PlatformTools": "Nền tảng & công cụ",
+          "MonitoringSupports": "Giám sát & hỗ trợ",
+          "EducationTraining": "Đào tạo & giáo dục",
+          "AboutCompany": "Về công ty",
+          "Contact": "Liên hệ"
+        },
+        "Downloads": {
+          "AppStore": "App Store",
+          "GooglePlay": "Google Play",
+          "webver": "Phiên bản web",
+          "h5ver": "Phiên bản H5"
+        },
+        "Copyright": "Được tạo bởi Chuyên gia, Bảo lưu mọi quyền.",
+        "Social": {
+          "Title": "Kết nối xã hội",
+          "Facebook": "Facebook",
+          "Twitter": "Twitter",
+          "Instagram": "Instagram",
+          "YouTube": "YouTube",
+          "Pinterest": "Pinterest"
+        },
+        "Legal": {
+          "PrivacyPolicy": "Chính sách Riêng tư",
+          "TermsConditions": "Điều khoản & Điều kiện",
+          "Legal": "Pháp lý"
+        }
+      },
+    
+      "ServiceDetail": {
+        "title1": "Dịch vụ",
+        "title2": "Cặp Tiền tệ",
+        "currencyPairs": "XAUUSD & Chỉ số",
+        "tradingAccount": "Tài khoản Giao dịch",
+        "platformsAndTools": "Nền tảng & Công cụ",
+        "monitoringAndSupport": "Giám sát & Hỗ trợ",
+        "educationAndTraining": "Đào tạo & Giáo dục",
+        "tradingConfidence": "Giao dịch Tự tin, Chiến thắng với Premier!...",
+        "navigatingMarkets": "Định hướng Thị trường, Tối đa hóa Lợi nhuận.",
+        "introducingPlatforms": "Giới thiệu Nền tảng & Công cụ",
+        "introText": "Giao dịch liền mạch với nền tảng của chúng tôi, cung cấp các tính năng giao dịch mạnh mẽ. Premier Giao dịch hỗ trợ đa dạng công cụ giao dịch và tùy chọn tùy chỉnh, giúp bạn kiểm soát toàn bộ các bước giao dịch. Nền tảng còn cung cấp Phiên bản Web, cho phép giao dịch trực tiếp từ trình duyệt mà không cần tải phần mềm. Luôn kết nối với biến động thị trường thời gian thực và thực hiện lệnh mọi lúc, mọi nơi.",
+        "benefitsTitle": "Lợi ích của Nền tảng & Công cụ",
+        "benefitsSubtext": "Không gì có thể ngăn cản chúng ta làm điều mình thích mỗi niềm vui đều đáng được chào đón.",
+    
+        "serviceD1": {
+          "content1": {
+            "title": "Giới thiệu XAUUSD & Chỉ số",
+            "description": "Giao dịch XAUUSD và các chỉ số phổ biến nhất thế giới, bao gồm chỉ số chứng khoán và chỉ số hàng hóa. Với giao dịch vàng và chỉ số, bạn có thể tận dụng biến động thị trường để tối ưu chiến lược đầu tư và nắm bắt cơ hội giao dịch linh hoạt hơn. Dù thị trường tăng hay giảm, bạn đều có thể tham gia hiệu quả với nhiều công cụ giao dịch để tự tin vận hành thị trường."
+          },
+          "content2": {
+            "title": "Lợi ích của Cặp Tiền tệ",
+            "description": "Giao dịch cặp tiền tệ mang lại tính thanh khoản cao, spread thấp và cơ hội thị trường đa dạng. Với các cặp chính, phụ và ngoại lai, nhà giao dịch có thể tận dụng xu hướng kinh tế toàn cầu, phòng ngừa rủi ro và thực thi chiến lược trên thị trường phi tập trung 24/5."
+          }
+        },
+        "serviceD2": {
+          "content1": {
+            "title": "Giới thiệu Tài khoản Giao dịch",
+            "description": "Lựa chọn từ nhiều loại tài khoản phù hợp nhu cầu. Dù là người mới hay trader kinh nghiệm, chúng tôi cung cấp tài khoản với spread cạnh tranh và công cụ nâng cao giúp bạn đạt mục tiêu tài chính. Tài khoản Demo cho phép bạn luyện tập và làm quen thị trường không rủi ro, trong khi Tài khoản Chuyên nghiệp cung cấp khớp lệnh nhanh, spread thấp hơn và nhiều tùy chọn tùy chỉnh cho trader tần suất cao và nhà đầu tư chuyên sâu, được thiết kế cho các nhu cầu giao dịch phức tạp."
+          },
+          "content2": {
+            "title": "Lợi ích của Tài khoản Giao dịch",
+            "description": "Tài khoản giao dịch cung cấp quyền truy cập liền mạch vào thị trường crypto, cho phép giao dịch an toàn, phân tích thời gian thực và cơ hội giao dịch chiến lược để tối đa hóa lợi nhuận."
+          }
+        },
+        "serviceD4": {
+          "content1": {
+            "title": "Giới thiệu Giám sát & Hỗ trợ",
+            "description": "Nền tảng chúng tôi cung cấp công cụ giám sát thị trường thời gian thực giúp bạn theo sát biến động giá. Dù là quản lý tài khoản, thực thi lệnh hay hỗ trợ kỹ thuật, đội ngũ hỗ trợ khách hàng 24/7 luôn sẵn sàng hỗ trợ. Chúng tôi đảm bảo bạn luôn nhận được phản hồi kịp thời mọi lúc, cam kết trải nghiệm giao dịch trơn tru và an tâm."
+          },
+          "content2": {
+            "title": "Lợi ích của Giám sát & Hỗ trợ",
+            "description": "Giám sát thường xuyên và hỗ trợ chuyên gia đảm bảo đầu tư crypto an toàn và tối ưu, giúp bạn giảm thiểu rủi ro, nắm bắt cơ hội và tối đa hóa lợi nhuận trên thị trường biến động."
+          }
+        },
+        "serviceD5": {
+          "content1": {
+            "title": "Giới thiệu Đào tạo & Giáo dục",
+            "description": "Chương trình đào tạo toàn diện trang bị kiến thức và kỹ năng cần thiết để vận hành thị trường crypto và tài chính. Các chương trình của chúng tôi bao gồm phân tích cơ bản và kỹ thuật, chiến lược quản lý rủi ro và mô phỏng giao dịch thực tế để nâng cao sự tự tin và khả năng ra quyết định."
+          },
+          "content2": {
+            "title": "Lợi ích của Đào tạo & Giáo dục",
+            "description": "Đào tạo đúng đắn về giao dịch trang bị cho bạn hiểu biết thị trường thiết yếu, kỹ thuật quản lý rủi ro và lập kế hoạch chiến lược. Với hướng dẫn chuyên gia và đào tạo thực hành, bạn có thể nâng cao kỹ năng giao dịch, đưa quyết định sáng suốt và tối đa hóa lợi nhuận trên thị trường crypto năng động."
+          }
+        },
+    
+        "benefits": {
+          "diversification": {
+            "title": "Đa dạng hóa",
+            "shortDesc": "Nền tảng PREMIER cung cấp đa dạng hóa qua forex, cổ phiếu, crypto và các lĩnh vực khác, mang đến nhiều công cụ giao dịch và chiều sâu thị trường đáp ứng nhu cầu nhà đầu tư toàn cầu",
+            "longDesc": "Đối tác giao dịch đa dạng nâng cao chiều sâu và ổn định thị trường"
+          },
+          "globalExposure": {
+            "title": "Tiếp cận Toàn cầu",
+            "shortDesc": "Nền tảng PREMIER có cộng đồng người dùng toàn cầu lớn, dựa trên tính thanh khoản mạnh, môi trường giao dịch ổn định và tốc độ khớp lệnh nhanh, đảm bảo trải nghiệm đầu tư liền mạch cho người dùng. Chúng tôi tạo môi trường giao dịch ổn định và hiệu quả cho nhà đầu tư.",
+            "longDesc": "Phủ sóng người dùng toàn cầu với tính thanh khoản vô song"
+          },
+          "technicalAnalysis": {
+            "title": "Phân tích Kỹ thuật",
+            "shortDesc": "Nền tảng PREMIER sử dụng công cụ phân tích kỹ thuật tiên tiến để cung cấp cho nhà giao dịch những thông tin thị trường chính xác và hiệu quả, hỗ trợ quyết định đầu tư. Bằng cách tích hợp dữ liệu lớn và trí tuệ nhân tạo, nó cung cấp cập nhật thị trường thời gian thực, tối ưu hóa hiệu quả thực hiện giao dịch.",
+            "longDesc": "Hỗ trợ công nghệ tiên tiến đảm bảo trải nghiệm giao dịch mượt mà và ổn định."
+          },
+          "profitPotential": {
+            "title": "Tiềm năng Lợi nhuận",
+            "shortDesc": "Nền tảng PREMIER cung cấp đòn bẩy lên đến 1:400, cho phép nhà đầu tư tiếp cận các cơ hội thị trường lớn hơn với vốn nhỏ hơn, nâng cao hiệu quả giao dịch và tiềm năng lợi nhuận, giúp họ nắm bắt nhiều cơ hội hơn trong thị trường biến động nhanh chóng.",
+            "longDesc": "Giúp nhà đầu tư khuếch đại hiệu quả vốn, cho phép họ đạt được lợi nhuận cao hơn trong thị trường rộng lớn hơn."
+          }
+        },
+        "features": [
+          "Đánh giá Tiến trình của Bạn",
+          "Cải tiến Liên tục",
+          "Hỗ trợ Khách hàng 24/7"
+        ],
+        "whatsProvided": {
+          "title": "Những gì được cung cấp?",
+          "description": "Chúng tôi cung cấp đầy đủ các công cụ giao dịch để nâng cao thành công của bạn. Từ phân tích thị trường thời gian thực đến đòn bẩy & ký quỹ linh hoạt, nền tảng của chúng tôi cung cấp mọi thứ bạn cần để giao dịch hiệu quả. Các tùy chọn gửi tiền thuận tiện bằng nhiều loại tiền tệ đảm bảo bạn có thể dễ dàng quản lý quỹ của mình và tập trung vào giao dịch."
+        },
+        "tabs": {
+          "pairSelection": "Lựa chọn cặp",
+          "majorCurrencyPair": "Cặp Giao dịch Phổ biến",
+          "minorExoticPairs": "Cặp Phụ & Ngoại lai",
+          "marketAnalysis": "Phân tích Thị trường",
+          "leverageMargin": "Đòn bẩy & Ký quỹ",
+          "tabContent": {
+            "features": [
+              "Chọn từ một loạt các cặp forex dựa trên sở thích thị trường của bạn. Dù là cặp chính, phụ hay ngoại lai, bạn có thể chọn cặp phù hợp với chiến lược giao dịch của mình.",
+              "Giao dịch một số cặp được theo dõi nhiều nhất trên thị trường, chẳng hạn như XAUUSD, nổi tiếng với tính biến động và thanh khoản. Những cặp này mang lại cơ hội giao dịch đáng kể do sự phổ biến của chúng trong số các nhà giao dịch và nhu cầu toàn cầu về hàng hóa và tiền tệ.",
+              "Tận dụng những hiểu biết và phân tích thị trường chuyên gia để đi trước xu hướng. Nghiên cứu thị trường toàn diện của chúng tôi giúp bạn hiểu các chuyển động chính của thị trường và đưa ra quyết định giao dịch thông minh.",
+              "Hiểu cách đòn bẩy và ký quỹ hoạt động để nâng cao sức mạnh giao dịch của bạn. Tận dụng đòn bẩy để tối đa hóa lợi nhuận tiềm năng, trong khi quản lý yêu cầu ký quỹ để kiểm soát rủi ro."
+            ]
+          }
+        },
+        "cryptoInvestment": {
+          "title": "Đầu tư Crypto Hoạt động Như Thế Nào?",
+          "description": "Đầu tư vào tiền điện tử liên quan đến việc mua các tài sản kỹ thuật số sử dụng công nghệ blockchain. Những tài sản này có thể tăng giá trị theo thời gian, nhưng cũng đi kèm với rủi ro. Hiểu quy trình là rất quan trọng để đưa ra quyết định đầu tư thông minh.",
+          "steps": {
+            "openAccount": {
+              "title": "Mở Tài khoản Giao dịch",
+              "description": "Để bắt đầu đầu tư vào tiền điện tử, bạn cần tạo một tài khoản trên một sàn giao dịch uy tín. Quy trình này thường bao gồm việc cung cấp thông tin cá nhân và xác minh danh tính của bạn."
+            },
+            "fundTransfer": {
+              "title": "Chuyển tiền An toàn & Dễ dàng",
+              "description": "Khi tài khoản của bạn đã được thiết lập, bạn có thể chuyển tiền một cách an toàn bằng nhiều phương thức như chuyển khoản ngân hàng, thẻ tín dụng, hoặc thậm chí các loại tiền điện tử khác. Đảm bảo bạn tuân thủ các quy trình bảo mật để bảo vệ tài sản của mình."
+            },
+            "exploreCrypto": {
+              "title": "Khám Phá Thị Trường Tiền Điện Tử của Chúng Tôi",
+              "description": "Sau khi nạp tiền vào tài khoản, bạn có thể khám phá các thị trường tiền điện tử khác nhau. Nghiên cứu các đồng coin khác nhau, phân tích xu hướng thị trường và đưa ra quyết định thông minh về các tài sản để đầu tư."
+            }
+          }
+        }
+      },
+    "OurServices": {
+        "pageTitle": "Dịch Vụ",
+        "service1": {
+            "label": "Dịch Vụ #1",
+            "title": "Phân Tích Thị Trường và Chiến Lược",
+            "description": "Phân tích kỹ thuật và cơ bản của thị trường tiền điện tử để xác định cơ hội giao dịch chiến lược.",
+            "button": "Khám Phá"
+        },
+        "service2": {
+            "label": "Dịch Vụ #2",
+            "title": "Quản Lý Danh Mục Đầu Tư",
+            "description": "Dịch vụ quản lý danh mục đầu tư tiền điện tử toàn diện, bao gồm đánh giá rủi ro và chiến lược đa dạng hóa.",
+            "button": "Khám Phá"
+        },
+        "service3": {
+            "label": "Dịch Vụ #3",
+            "title": "Công Cụ Giao Dịch Nâng Cao",
+            "description": "Truy cập vào nền tảng giao dịch tiền điện tử tiên tiến với phân tích theo thời gian thực và tính năng giao dịch tự động.",
+            "button": "Khám Phá"
+        },
+        "service4": {
+            "label": "Dịch Vụ #4",
+            "title": "Bảo Mật và Quản Lý Rủi Ro",
+            "description": "Các giao thức bảo mật toàn diện và chiến lược quản lý rủi ro để bảo vệ các khoản đầu tư tiền điện tử của bạn.",
+            "button": "Khám Phá"
+        },
+        "service5": {
+            "label": "Dịch Vụ #5",
+            "title": "Giáo Dục Đầu Tư",
+            "description": "Tài nguyên giáo dục và chương trình đào tạo toàn diện cho việc hiểu biết về thị trường và giao dịch tiền điện tử.",
+            "button": "Khám Phá"
+        },
+        "service6": {
+            "label": "Dịch Vụ #6",
+            "title": "Thông Tin Thị Trường",
+            "description": "Nghiên cứu thị trường tiền điện tử mới nhất, phân tích xu hướng và thông tin đầu tư có thể hành động.",
+            "button": "Khám Phá"
+        },
+        "cta": {
+            "title": "Có câu hỏi về dịch vụ của chúng tôi không?",
+            "description": "Liên hệ với đội ngũ chuyên gia của chúng tôi để được hướng dẫn đầu tư tiền điện tử cá nhân hóa.",
+            "emailLabel": "Email",
+            "email": "info@premiertradingplatform.com"
+        }
+    },
+    "AboutPage": {
+        "breadcrumbTitle": "Về Công Ty",
+        "mainTitle": "Về Premier Payment Solutions LTD",
+        "subTitle": "Dẫn Đầu trong Giao Dịch Forex Độc Quyền",
+        "description": "Công ty forex của chúng tôi cung cấp các giải pháp giao dịch sáng tạo, phân tích chuyên gia và hỗ trợ khách hàng xuất sắc, giúp các nhà giao dịch vượt trội trong thị trường ngoại hối năng động.",
+        "awards": {
+            "globalForex": {
+                "title": "Giải thưởng Global Forex",
+                "date": "Tháng 3, 2023"
+            },
+            "customerService": {
+                "title": "Dịch vụ Khách hàng Tốt nhất",
+                "date": "Tháng 6, 2022"
+            }
+        },
+        "ceoInfo": {
+            "name": "Taimoor IQBAL",
+            "title": "CEO & Người Sáng lập",
+            "description": "Dự đoán những khó khăn và thách thức sẽ phải đối mặt."
+        },
+        "experience": {
+            "years": "10+",
+            "title": "Năm",
+            "subtitle": "Kinh nghiệm trong Thị trường"
+        },
+        "performance": {
+            "title": "Tỷ lệ Thành công Năm ngoái",
+            "value": "84.65%",
+            "increase": "+6.39%"
+        },
+        "corporateJourney": {
+            "title": "Hành trình Doanh nghiệp",
+            "subtitle": "Trong thế giới forex, Chúng tôi dẫn đầu",
+            "evolution": {
+                "title": "Sự phát triển",
+                "description": "Không ai yêu thích hay theo đuổi nỗi đau vì chính nó."
+            }
+        },
+        "stats": {
+            "payoutTime": {
+                "value": "24",
+                "unit": "Giờ",
+                "description": "Thời gian Xử lý Thanh toán Trung bình"
+            },
+            "accountEarning": {
+                "value": "1",
+                "unit": "Ngày",
+                "description": "Để Nhận Tài khoản Giao dịch"
+            },
+            "trades": {
+                "value": "900",
+                "unit": "Triệu",
+                "description": "Số lượng Giao dịch Mở Tháng trước"
+            },
+            "fundingExperience": {
+                "value": "10+",
+                "unit": "Năm",
+                "description": "Cung cấp Vốn cho Nhà giao dịch Tương lai"
+            }
+        },
+        "statements": {
+            "title": "Tuyên bố",
+            "subtitle": "Nguyên tắc chỉ đạo của công ty forex chúng tôi",
+            "mission": {
+                "title": "Sứ mệnh của Chúng tôi",
+                "description": "Người chọn tận hưởng niềm vui không có hậu quả khó chịu hoặc người tránh nỗi đau."
+            },
+            "vision": {
+                "title": "Tầm nhìn của Chúng tôi",
+                "description": "Lỗi tương tự thuộc về những người thất bại trong nhiệm vụ do ý chí yếu đuối."
+            },
+            "coreValues": {
+                "title": "Giá trị Cốt lõi của Chúng tôi",
+                "description": "Tìm lỗi ở người chọn tận hưởng niềm vui không có hậu quả khó chịu.",
+                "values": [
+                    "Chính trực",
+                    "Lấy Khách hàng làm Trung tâm",
+                    "Đổi mới",
+                    "Quản lý Rủi ro",
+                    "Chuyên nghiệp"
+                ]
+            }
+        },
+        "team": {
+            "title": "Thành viên Đội ngũ",
+            "subtitle": "Đội ngũ đằng sau thành công của chúng tôi",
+            "members": [
+                {
+                    "name": "Taimoor IQBAL",
+                    "role": "Người Sáng lập",
+                    "description": "Dự đoán những khó khăn và thách thức sẽ phải đối mặt."
+                },
+                {
+                    "name": "Gerald Ivor",
+                    "role": "Giám đốc Tài chính",
+                    "description": "Khả năng làm những điều chúng ta thích nhất, mọi niềm vui đều xảy ra."
+                },
+                {
+                    "name": "Nora Lillian",
+                    "role": "Trưởng bộ phận Giao dịch",
+                    "description": "Duy trì nguyên tắc lựa chọn này trong những vấn đề này."
+                },
+                {
+                    "name": "Michal Starck",
+                    "role": "Chuyên gia Phân tích Thị trường",
+                    "description": "Từ chối niềm vui để đảm bảo những niềm vui lớn hơn."
+                }
+            ]
+        }
+    },
+    "contactUs": {
+    "sendMessage": "Gửi tin nhắn cho chúng tôi",
+    "getInTouch": "Liên hệ với chúng tôi",
+    "assistMessage": "Chúng tôi luôn sẵn sàng hỗ trợ bạn. Đừng ngần ngại liên hệ với chúng tôi bằng cách gửi tin nhắn.",
+    "connectWithUs": "Kết nối với chúng tôi",
+    "companyEmail": "Email công ty",
+    "emailAddress": "info@premiertradingplatform.com",
+    "officeAddress": "Địa chỉ trụ sở chính",
+    "address": {
+        "street": "30 Churchill Place",
+        "city": "Canary Wharf, London",
+        "country": "Vương quốc Anh, E14 5RE"
+    },
+    "customerService": "Dịch vụ khách hàng trực tuyến"
+}
+
+}

@@ -1,0 +1,31 @@
+{
+  "name": "premier-payment-solutions",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "sass": "sass --watch public/assets/scss/main.scss:public/assets/css/main.css"
+  },
+  "dependencies": {
+    "bootstrap-touchspin": "^4.7.3",
+    "clsx": "^2.1.1",
+    "isotope-layout": "^3.0.6",
+    "lightgallery": "^2.7.2",
+    "lucide-react": "^0.475.0",
+    "next": "13.4.19",
+    "next-intl": "^3.26.3",
+    "owl.carousel": "^2.3.4",
+    "react": "18.2.0",
+    "react-curved-text": "^2.0.2",
+    "react-dom": "18.2.0",
+    "react-fast-marquee": "^1.6.5",
+    "react-modal-video": "^2.0.1",
+    "react-owl-carousel": "^2.3.3",
+    "sass": "^1.66.1",
+    "swiper": "^10.2.0",
+    "wowjs": "^1.1.3"
+  }
+}

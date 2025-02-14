@@ -1,0 +1,7 @@
+//dir /s /b *.js *.json | findstr /v /i "node_modules"
+
+usages
+//import { useTranslations } from "next-intl";
+//const t = useTranslations(); // Call the hook with parentheses
+//<h1>{t("Service.selectLanguage")}</h1> {/* Use the translation here */}
+                

@@ -1,0 +1,634 @@
+{
+    "Header": {
+      "Menu": {
+        "Home": "首頁",
+        "About": "關於",
+        "AboutCompany": "關於我們",
+        "Trading": "交易",
+        "Platform": "平台",
+        "MetaTrader4": "Premier 交易",
+        "Services": "服務",
+        "ServicesOverview": "服務概覽",
+        "PlatformTools": "平台與工具",
+        "Contact": "聯絡"
+      }
+    },
+    "MobileMenu": {
+      "Home": "首頁",
+      "About": "關於",
+      "AboutCompany": "關於我們",
+      "History": "歷史",
+      "TeamMembers": "團隊成員",
+      "Faqs": "常見問題",
+      "Trading": "交易",
+      "Services": "服務",
+      "ServicesOverview": "服務概覽",
+      "PlatformTools": "平台與工具",
+      "Contact": "聯絡",
+      "Twitter": "Twitter",
+      "Facebook": "Facebook",
+      "Pinterest": "Pinterest",
+      "Instagram": "Instagram",
+      "YouTube": "YouTube"
+    },
+"Banner": {
+  "circleText": "投資 . 交易 . 成長 .",
+  "welcome": "歡迎來到 Premier 加密貨幣交易",
+  "navigate": "自信駕馭數位資產市場",
+  "strategic_investment": "策略性加密投資",
+  "diversify": "透過數位資產分散您的投資組合",
+  "advanced_trading": "先進交易平台",
+  "trade_professionally": "使用專業工具交易加密貨幣",
+  "access_tools": "使用先進的交易工具和即時市場分析，做出明智的加密貨幣投資決策。",
+  "secure_trading": "體驗具機構級安全性與精密風險管理工具的安全交易。",
+  "comprehensive_data": "在我們的專業交易平台上獲取全面的市場數據、進階圖表工具與流暢交易體驗。"
+},
+"Services": {
+  "sectionTitle": "我們的服務",
+  "sectionSubtitle": "助您交易成功的一切所需",
+  "service1": {
+    "label": "服務 #1",
+    "title": "貨幣對分析",
+    "description": "深入分析貨幣對，助您做出明智的交易決策。",
+    "buttonText": "探索"
+  },
+  "service2": {
+    "label": "服務 #2",
+    "title": "專有交易帳戶",
+    "description": "專為最佳效能與盈利設計的專有交易帳戶。",
+    "buttonText": "探索"
+  },
+  "service3": {
+    "label": "服務 #3",
+    "title": "交易平台與工具",
+    "description": "先進的交易平台與工具，提升您的交易體驗。",
+    "buttonText": "探索"
+  },
+  "service4": {
+    "label": "服務 #4",
+    "title": "交易監控與支援",
+    "description": "全面的交易監控與支援，確保最佳交易成果。",
+    "buttonText": "探索"
+  },
+  "service5": {
+    "title": "財務成長的專家指導",
+    "description": "個人化諮詢，幫助您制定有效的交易策略。",
+    "buttonText": "立即開始"
+  }
+},
+"Funfact": {
+  "keyMetrics": "關鍵指標",
+  "performance": "我們的表現一覽",
+  "averagePayout": "平均出款處理時間",
+  "timeToOpenAccount": "開立交易帳戶所需時間",
+  "numberOfTrades": "上月執行的交易數量",
+  "experience": "期貨交易資金支援經驗",
+  "topUp": "2024年下半年付款明細",
+  "million": "百萬",
+  "day": "天",
+  "years": "年",
+  "hours": "小時",
+  "months": {
+    "apr": "7月",
+    "may": "8月",
+    "jun": "9月",
+    "jul": "10月",
+    "aug": "11月",
+    "sep": "12月"
+  }
+},
+"About": {
+  "about_title": "關於 Premier Payment Solutions LTD",
+  "about_subtitle": "專有外匯交易的先驅",
+  "about_description": "踏入金融魔法的世界，Premier Payment Solutions LTD 提供專屬交易資金，助力技術卓越的交易者突破資本限制，實現財富增長。",
+  "specialization_title": "專業領域",
+  "specializations": [
+    "自動交易",
+    "高頻交易",
+    "技術分析"
+  ]
+},
+"Work": {
+  "howItWorks": "運作方式",
+  "understandingTheEvaluationProcess": "了解評估流程",
+  "process": "流程",
+  "step1": {
+    "title": "步驟 #1",
+    "heading": "交易挑戰",
+    "description": "參加我們的交易挑戰，在真實市場環境中展示您的技能與策略。"
+  },
+  "step2": {
+    "title": "步驟 #2",
+    "heading": "驗證與交易",
+    "description": "通過驗證後，您即可使用提供的資金開始交易，運用您的策略來最大化收益。"
+  },
+  "step3": {
+    "title": "步驟 #3",
+    "heading": "獲取收益",
+    "description": "成功交易後，您將根據表現與產生的利潤獲得收益。"
+  }
+},
+"Pairs": {
+  "popular_pairs": "熱門貨幣對",
+  "top_pairs_pricing": "市場頂級貨幣對與報價",
+  "eur_usd": {
+    "currency": "歐元",
+    "exchange": "美元",
+    "price": "1.03",
+    "currency_rate": "+0.04%",
+    "sell": "賣出 1.03",
+    "trade": "交易"
+  },
+  "usd_jpy": {
+    "currency": "美元",
+    "exchange": "日圓",
+    "price": "151.81",
+    "currency_rate": "+0.04%",
+    "sell": "賣出 1.03",
+    "trade": "交易"
+  },
+  "gbp_usd": {
+    "currency": "英鎊",
+    "exchange": "美元",
+    "price": "1.24",
+    "currency_rate": "+0.05%",
+    "sell": "賣出 1.24",
+    "trade": "交易"
+  },
+  "eur_gbp": {
+    "currency": "歐元",
+    "exchange": "英鎊",
+    "price": "0.83",
+    "currency_rate": "-0.12%",
+    "sell": "賣出 0.83",
+    "trade": "交易"
+  },
+  "see_more_pairs": "查看更多貨幣對"
+},
+
+"Chooseus": {
+  "key_features": "主要特色",
+  "why_trade_with_us": "為何選擇我們交易",
+  "trading_access": {
+    "title": "全天候交易",
+    "description": "透過我們的平台 24/7 全天候進行加密貨幣交易，享受即時執行與市場連接。"
+  },
+  "competitive_fees": {
+    "title": "具競爭力的手續費",
+    "description": "享受業界領先的低手續費與透明的定價機制，適用於所有加密貨幣交易對。"
+  },
+  "advanced_security": {
+    "title": "先進安全防護",
+    "description": "您的資產受到機構級安全措施保護，包括冷錢包存儲與多重簽名驗證。"
+  },
+  "multiple_trading_pairs": {
+    "title": "多種交易對",
+    "description": "提供多樣化的加密貨幣交易對，擁有深度流動性與具競爭力的買賣差價。"
+  },
+  "professional_tools": {
+    "title": "專業交易工具",
+    "description": "使用進階圖表、技術指標與市場分析工具，做出明智的交易決策。"
+  },
+  "dedicated_support": {
+    "title": "專業客服支援",
+    "description": "我們的 24/7 客戶支援團隊隨時為您提供專業的交易與技術協助。"
+  }
+},
+"Testimonial": {
+  "sectionTitle": "用戶見證",
+  "mainTitle": "交易員的真實評價",
+  "trustpilot": {
+    "title": "Trustpilot",
+    "rating": "最佳評價",
+    "score": "4.9/5",
+    "reviewCount": "(1.5 百萬名交易員評價)"
+  },
+  "shareThoughts": "分享您對我們服務的看法",
+  "testimonials": [
+    {
+      "author": "Nathan Felix",
+      "designation": "Naxly Info Tech 總監",
+      "experienceTitle": "卓越的交易體驗",
+      "experienceDescription": "這個平台改變了我的交易方式，使其更加高效和盈利。",
+      "rating": 5
+    },
+    {
+      "author": "Eloise Juniper",
+      "designation": "Thinkquest Technologies 創辦人",
+      "experienceTitle": "簡單且高效",
+      "experienceDescription": "提供的工具讓交易變得簡單且有效。",
+      "rating": 5
+    }
+  ]
+},
+"Featured": {
+  "industryRecognition": "行業認可",
+  "featuredIn": "榮登頂尖金融媒體",
+  "topCryptoExchange": "2024 年最佳加密貨幣交易所",
+  "bestTradingPlatform": "最佳交易平台",
+  "mostSecureExchange": "最安全的交易所",
+  "excellenceInInnovation": "創新卓越獎",
+  "bestCustomerService": "最佳客戶服務",
+  "mostTrustedBrand": "最值得信賴品牌",
+  "fastestGrowingExchange": "成長最快的交易所",
+  "bestMobileTradingApp": "最佳行動交易應用程式"
+},
+"AboutPage": {
+  "breadcrumbTitle": "關於公司",
+  "mainTitle": "關於 Premier Payment Solutions LTD",
+  "subTitle": "專業外匯交易的領導者",
+  "description": "我們的外匯公司提供創新的交易解決方案、專業分析和卓越的客戶支持，使交易者能夠在充滿活力的外匯市場中脫穎而出。",
+  "awards": {
+    "globalForex": {
+      "title": "全球外匯大獎",
+      "date": "2023 年 3 月"
+    },
+    "customerService": {
+      "title": "最佳客戶服務",
+      "date": "2022 年 6 月"
+    }
+  },
+  "ceoInfo": {
+    "name": "Taimoor IQBAL",
+    "title": "CEO 兼創辦人",
+    "description": "預見交易市場中可能出現的挑戰與困難。"
+  },
+  "experience": {
+    "years": "10+",
+    "title": "年",
+    "subtitle": "市場經驗"
+  },
+  "performance": {
+    "title": "去年成功率",
+    "value": "84.65%",
+    "increase": "+6.39%"
+  },
+  "corporateJourney": {
+    "title": "企業發展歷程",
+    "subtitle": "在外匯市場，我們引領潮流",
+    "evolution": {
+      "title": "發展演變",
+      "description": "我們不僅是交易者，更是市場的變革者。"
+    }
+  },
+  "stats": {
+    "payoutTime": {
+      "value": "24",
+      "unit": "小時",
+      "description": "平均出金處理時間"
+    },
+    "accountEarning": {
+      "value": "1",
+      "unit": "天",
+      "description": "即可獲取交易帳戶"
+    },
+    "trades": {
+      "value": "900",
+      "unit": "百萬",
+      "description": "上月開立的交易筆數"
+    },
+    "fundingExperience": {
+      "value": "10+",
+      "unit": "年",
+      "description": "為期貨交易者提供資金支持"
+    }
+  },
+  "statements": {
+    "title": "公司理念",
+    "subtitle": "我們的外匯公司核心指導方針",
+    "mission": {
+      "title": "我們的使命",
+      "description": "幫助交易者充分利用市場機會，實現財務目標。"
+    },
+    "vision": {
+      "title": "我們的願景",
+      "description": "為全球交易者提供值得信賴的交易環境與專業支持。"
+    },
+    "coreValues": {
+      "title": "我們的核心價值觀",
+      "description": "以專業與誠信為基礎，提供卓越的交易服務。",
+      "values": [
+        "誠信",
+        "客戶至上",
+        "創新",
+        "風險管理",
+        "專業精神"
+      ]
+    }
+  },
+  "team": {
+    "title": "團隊成員",
+    "subtitle": "成功背後的團隊",
+    "members": [
+      {
+        "name": "Taimoor IQBAL",
+        "role": "創辦人",
+        "description": "預見交易市場中可能出現的挑戰與困難。"
+      },
+      {
+        "name": "Gerald Ivor",
+        "role": "首席財務官",
+        "description": "財務策略專家，確保公司穩健發展。"
+      },
+      {
+        "name": "Nora Lillian",
+        "role": "交易部主管",
+        "description": "負責交易策略與市場監管，確保交易品質。"
+      },
+      {
+        "name": "Michal Starck",
+        "role": "市場分析師",
+        "description": "專注於市場趨勢分析，為交易者提供洞察。"
+      }
+    ]
+  }
+},
+
+
+"MetaTrader4": {
+    "platform": {
+      "title": "Premier 平台",
+      "subtitle": "使用 Premier？獲取專屬工具",
+      "description": "拋開享樂，迎接挑戰，這將為您提供完整的系統概述，並闡述實際交易理念。",
+      "features": {
+        "feature1": "超高速交易執行",
+        "feature2": "可透過智慧型手機或平板交易",
+        "feature3": "無交易員介入，無重新報價"
+      }
+    },
+    "download": {
+      "title": "下載 Premier 交易平台",
+      "mobile": {
+        "title": "行動裝置用戶",
+        "subtitle": "Premier 交易",
+        "description": "適用於 Android 和 iPhone 平台。"
+      },
+      "desktop": {
+        "title": "桌面裝置用戶",
+        "subtitle": "Premier 交易",
+        "description": "適用於 Windows 和 macOS 平台。"
+      },
+      "web": {
+        "title": "網頁終端",
+        "subtitle": "Premier 交易",
+        "description": "可直接透過網頁瀏覽器進行交易。"
+      }
+    },
+    "tutorial": {
+      "title": "平台功能探索",
+      "subtitle": "Premier 平台輕鬆掌控市場",
+      "videoTitle": "外匯交易入門",
+      "duration": "時長：6 分 5 秒",
+      "description": "深入了解外匯市場動態，掌握核心交易策略，讓自己在全球市場中抓住機會。"
+    },
+    "features": {
+      "title": "主要亮點",
+      "subtitle": "Premier 平台功能",
+      "items": {
+        "item1": "90% 高效交易執行",
+        "item2": "10% 訂單處理最佳化",
+        "item3": "一鍵評估"
+      }
+    },
+    "cta": {
+      "title": "不確定 Premier 是否適合您？",
+      "subtitle": "查看我們的比較表，瞭解平台功能差異。",
+      "contact": {
+        "email": {
+          "label": "聯絡我們！",
+          "value": "info@premiertradingplatform.com"
+        }
+      }
+    },
+    "onImg": {
+      "multiChart": "多圖表分析",
+      "newfeed": "新聞動態"
+    }
+  },
+  "OurServices": {
+      "pageTitle": "服務",
+      "service1": {
+          "label": "服務 #1",
+          "title": "市場分析與策略",
+          "description": "專業的加密貨幣市場技術和基本面分析，以識別策略性交易機會。",
+          "button": "了解更多"
+      },
+      "service2": {
+          "label": "服務 #2",
+          "title": "投資組合管理",
+          "description": "全面的加密貨幣投資組合管理服務，包括風險評估和多元化策略。",
+          "button": "了解更多"
+      },
+      "service3": {
+          "label": "服務 #3",
+          "title": "進階交易工具",
+          "description": "使用具有即時分析和自動交易功能的先進加密貨幣交易平台。",
+          "button": "了解更多"
+      },
+      "service4": {
+          "label": "服務 #4",
+          "title": "安全與風險管理",
+          "description": "全面的安全協議和風險管理策略，保護您的加密貨幣投資。",
+          "button": "了解更多"
+      },
+      "service5": {
+          "label": "服務 #5",
+          "title": "投資教育",
+          "description": "全面的加密貨幣市場理解和交易教育資源與培訓計劃。",
+          "button": "了解更多"
+      },
+      "service6": {
+          "label": "服務 #6",
+          "title": "市場情報",
+          "description": "最新的加密貨幣市場研究、趨勢分析和可行的投資見解。",
+          "button": "了解更多"
+      },
+      "cta": {
+          "title": "對我們的服務有疑問嗎？",
+          "description": "聯繫我們的專家團隊，獲取個人化的加密貨幣投資指導。",
+          "emailLabel": "電子郵件",
+          "email": "info@premiertradingplatform.com"
+      }
+  },
+  
+  "ServiceDetail": {
+    "title1": "服務",
+    "title2": "貨幣對",
+    "currencyPairs": "XAUUSD & 指數",
+    "tradingAccount": "交易帳戶",
+    "platformsAndTools": "交易平台與工具",
+    "monitoringAndSupport": "市場監控與支援",
+    "educationAndTraining": "教育與培訓",
+    "tradingConfidence": "自信交易，與 Premier 一起贏！",
+    "navigatingMarkets": "掌握市場趨勢，最大化盈利。",
+    "introducingPlatforms": "介紹交易平台與工具",
+    "introText": "透過我們的平台，享受流暢的交易體驗，提供強大的交易功能。Premier Trade 支援多種交易工具與自訂選項，讓您完全掌控每筆交易。此外，我們還提供 Web 版本，讓您無需下載軟體即可直接從瀏覽器交易。即時掌握市場變化，隨時隨地執行交易。",
+    "benefitsTitle": "交易平台與工具的優勢",
+    "benefitsSubtext": "每種樂趣都值得被享受，沒有什麼能阻止我們追求最喜愛的事物。",
+
+    "serviceD1": {
+      "content1": {
+        "title": "XAUUSD & 指數簡介",
+        "description": "交易全球最受歡迎的 XAUUSD 和指數，包括股票指數與商品指數。透過黃金與指數交易，您可以利用市場波動來優化投資策略，抓住更多靈活的交易機會。無論市場上漲或下跌，您都能透過多種交易工具自信地應對市場變化。"
+      },
+      "content2": {
+        "title": "貨幣對交易的優勢",
+        "description": "貨幣對交易具備高流動性、低點差與多樣市場機會。透過交易主要、次要與稀有貨幣對，投資者能夠掌握全球經濟趨勢、對沖風險，並在 24/5 的去中心化市場中執行策略。"
+      }
+    },
+    "serviceD2": {
+      "content1": {
+        "title": "交易帳戶介紹",
+        "description": "選擇適合您的帳戶類型。無論您是新手還是有經驗的交易者，我們提供具競爭力的點差與高級交易工具，幫助您實現財務目標。模擬帳戶可讓您無風險地練習並熟悉市場，而專業帳戶則提供快速執行、較低點差與更多自訂選項，適合高頻交易者與進階投資者。"
+      },
+      "content2": {
+        "title": "交易帳戶的優勢",
+        "description": "交易帳戶提供流暢的市場存取，確保安全交易、即時分析與策略執行機會，幫助投資者最大化收益。"
+      }
+    },
+    "serviceD4": {
+      "content1": {
+        "title": "市場監控與支援",
+        "description": "我們的平台提供即時市場監控工具，幫助您掌握價格波動。無論是帳戶管理、交易執行還是技術支援，我們的 24/7 客服團隊隨時待命，確保您獲得即時回應，提供流暢且無憂的交易體驗。"
+      },
+      "content2": {
+        "title": "監控與支援的優勢",
+        "description": "定期監控與專業支援確保安全且最佳化的投資體驗，幫助您降低風險、把握機會，在波動市場中獲得最大回報。"
+      }
+    },
+    "serviceD5": {
+      "content1": {
+        "title": "教育與培訓",
+        "description": "全面的教育與培訓幫助交易者掌握加密貨幣與金融市場的知識與技能。我們的課程涵蓋基本與技術分析、風險管理策略以及實戰模擬交易，提升您的信心與決策能力。"
+      },
+      "content2": {
+        "title": "教育與培訓的優勢",
+        "description": "正確的交易教育能夠讓您掌握市場洞察、風險管理技巧與策略規劃。透過專家指導與實作訓練，您將提升交易技巧，做出明智決策，在動態市場中最大化盈利。"
+      }
+    },
+
+    "benefits": {
+      "diversification": {
+        "title": "多元化投資",
+        "shortDesc": "Premier 平台提供外匯、股票、加密貨幣等多元交易選擇，搭配豐富的市場深度與交易工具，滿足全球投資者的需求。",
+        "longDesc": "多樣化的交易選擇增強市場深度與穩定性。"
+      },
+      "globalExposure": {
+        "title": "全球市場參與",
+        "shortDesc": "Premier 平台擁有龐大的全球用戶群，憑藉強大流動性、穩定交易環境與快速執行速度，確保用戶享受無縫的投資體驗。",
+        "longDesc": "全球市場覆蓋，提供卓越流動性。"
+      },
+      "technicalAnalysis": {
+        "title": "技術分析",
+        "shortDesc": "Premier 平台運用先進技術分析工具，為交易者提供準確高效的市場洞察，幫助投資決策。透過大數據與人工智慧整合，提供即時市場更新，提高交易執行效率。",
+        "longDesc": "尖端技術支援，確保流暢穩定的交易體驗。"
+      },
+      "profitPotential": {
+        "title": "盈利潛力",
+        "shortDesc": "Premier 平台提供高達 1:400 槓桿，讓投資者以較小的資本進入更大的市場機會，提高交易效率與盈利潛力，在瞬息萬變的市場中掌握更多機會。",
+        "longDesc": "幫助投資者提升資本效率，在更廣闊的市場中實現更高回報。"
+      }
+    },
+    "features": [
+      "評估您的交易進度",
+      "持續改進",
+      "24/7 客戶支援"
+    ],
+    "whatsProvided": {
+      "title": "我們提供什麼？",
+      "description": "我們提供全方位的交易工具，助您成功。從即時市場分析到靈活的槓桿與保證金管理，我們的平台提供您交易所需的一切。支援多種貨幣的便捷存款選項，讓您輕鬆管理資金，專注於交易。"
+    },
+    "tabs": {
+      "pairSelection": "貨幣對選擇",
+      "majorCurrencyPair": "熱門交易貨幣對",
+      "minorExoticPairs": "次要與稀有貨幣對",
+      "marketAnalysis": "市場分析",
+      "leverageMargin": "槓桿與保證金",
+      "tabContent": {
+        "features": [
+          "根據市場需求選擇適合的貨幣對。無論是主要、次要或稀有貨幣對，您都可以根據交易策略進行選擇。",
+          "交易市場上最受關注的貨幣對，如 XAUUSD，以其波動性與流動性聞名。這些貨幣對因全球投資者的需求而提供豐富的交易機會。",
+          "運用專家市場洞察與分析掌握市場趨勢。我們的市場研究幫助您理解關鍵市場動向，做出明智交易決策。",
+          "了解槓桿與保證金如何提升交易能力。利用槓桿最大化潛在回報，同時管理保證金需求以控制風險。"
+        ]
+      }
+    },
+    "cryptoInvestment": {
+  "title": "加密貨幣投資如何運作？",
+  "description": "投資加密貨幣涉及購買利用區塊鏈技術的數位資產。這些資產可能隨時間增值，但也伴隨一定風險。了解投資流程對於做出明智的投資決策至關重要。",
+  "steps": {
+    "openAccount": {
+      "title": "開設交易帳戶",
+      "description": "要開始投資加密貨幣，您需要在可信賴的交易所創建帳戶。此過程通常需要提供個人信息並完成身份驗證。"
+    },
+    "fundTransfer": {
+      "title": "安全且便捷的資金轉帳",
+      "description": "帳戶設立後，您可以透過銀行轉帳、信用卡或其他加密貨幣等多種方式安全地存入資金。請確保遵循安全協議，以保護您的資產。"
+    },
+    "exploreCrypto": {
+      "title": "探索我們的加密貨幣市場",
+      "description": "資金入帳後，您可以探索各種加密貨幣市場。研究不同的幣種，分析市場趨勢，並做出明智的投資決策。"
+    }
+  }
+}
+  },
+  
+  "Footer": {
+    "BecomeAPart": "成為一員",
+    "UpdateCommunity": "加入我們的最新消息社群...",
+    "Subscribers": "訂閱者",
+    "RegulatedBy": "受美國 MSB 監管，編號：31000288258194。",
+    "Trading": {
+      "Title": "交易",
+      "MetaTrader4": "Premier 交易",
+      "MetaTrader5": "網頁版"
+    },
+    "Services": {
+      "Title": "服務",
+      "ServicesOverview": "服務總覽",
+      "CurrencyPairs": "貨幣對",
+      "TradingAccounts": "交易帳戶",
+      "PlatformTools": "交易平台與工具",
+      "MonitoringSupports": "監控與支援",
+      "EducationTraining": "教育與培訓",
+      "AboutCompany": "關於公司",
+      "Contact": "聯絡我們"
+    },
+    "Downloads": {
+      "AppStore": "App Store",
+      "GooglePlay": "Google Play",
+      "webver": "網頁版",
+      "h5ver": "H5 版"
+    },
+    "Copyright": "專業打造，版權所有。",
+    "Social": {
+      "Title": "社群連結",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter",
+      "Instagram": "Instagram",
+      "YouTube": "YouTube",
+      "Pinterest": "Pinterest"
+    },
+    "Legal": {
+      "PrivacyPolicy": "隱私政策",
+      "TermsConditions": "條款與條件",
+      "Legal": "法律資訊"
+    }
+  },
+    "contactUs": {
+    "sendMessage": "發送訊息給我們",
+    "getInTouch": "聯絡我們",
+    "assistMessage": "我們隨時為您提供協助。請隨時透過訊息與我們聯繫。",
+    "connectWithUs": "與我們聯繫",
+    "companyEmail": "公司電子郵件",
+    "emailAddress": "info@premiertradingplatform.com",
+    "officeAddress": "總部地址",
+    "address": {
+        "street": "30 Churchill Place",
+        "city": "金絲雀碼頭，倫敦",
+        "country": "英國，E14 5RE"
+    },
+    "customerService": "線上客戶服務"
+}
+
+}

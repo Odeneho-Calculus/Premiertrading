@@ -1,0 +1,632 @@
+{
+    "Header": {
+      "Menu": {
+        "Home": "Inicio",
+        "About": "Acerca de",
+        "AboutCompany": "Acerca de la empresa",
+        "Trading": "Comercio",
+        "Platform": "Plataforma",
+        "MetaTrader4": "Premier Trade",
+        "MetaTrader5": "Web",
+        "Services": "Servicios",
+        "ServicesOverview": "Descripción de servicios",
+        "PlatformTools": "Plataforma y herramientas",
+        "Contact": "Contacto"
+      }
+    },
+    "MobileMenu": {
+        "Home": "Inicio",
+        "About": "Acerca de",
+        "AboutCompany": "Acerca de la empresa",
+        "History": "Historia",
+        "TeamMembers": "Miembros del equipo",
+        "Faqs": "Preguntas frecuentes",
+        "Trading": "Trading",
+        "Services": "Servicios",
+        "ServicesOverview": "Descripción general de servicios",
+        "PlatformTools": "Plataforma y herramientas",
+        "Contact": "Contacto",
+        "Twitter": "Twitter",
+        "Facebook": "Facebook",
+        "Pinterest": "Pinterest",
+        "Instagram": "Instagram",
+        "YouTube": "YouTube"
+    },
+    "Banner": {
+        "circleText": "Invierte . Comercia . Crece",
+        "welcome": "Bienvenido a Premier Crypto Trading",
+        "navigate": "Navega por el mercado de activos digitales con confianza",
+        "strategic_investment": "Inversión estratégica en criptomonedas",
+        "diversify": "Diversifica tu cartera con activos digitales",
+        "advanced_trading": "Plataforma de trading avanzada",
+        "trade_professionally": "Opera criptomonedas con herramientas profesionales",
+        "access_tools": "Accede a herramientas de trading avanzadas y análisis de mercado en tiempo real para tomar decisiones de inversión informadas en el mercado de criptomonedas.",
+        "secure_trading": "Experimenta un trading seguro con seguridad de nivel institucional y herramientas sofisticadas de gestión de riesgos.",
+        "comprehensive_data": "Accede a datos de mercado completos, herramientas de gráficos avanzadas y ejecución fluida en nuestra plataforma de trading profesional."
+    },
+    "Services": {
+      "sectionTitle": "Nuestros Servicios",
+      "sectionSubtitle": "Todo lo que necesitas para el éxito en el trading",
+      "service1": {
+        "label": "Servicio #1",
+        "title": "Análisis de Pares de Divisas",
+        "description": "Análisis en profundidad de pares de divisas para ayudarte a tomar decisiones informadas de trading.",
+        "buttonText": "Explorar"
+      },
+      "service2": {
+        "label": "Servicio #2",
+        "title": "Cuentas de Trading Propietarias",
+        "description": "Acceso a cuentas de trading propietarias diseñadas para un rendimiento y rentabilidad óptimos.",
+        "buttonText": "Explorar"
+      },
+      "service3": {
+        "label": "Servicio #3",
+        "title": "Plataformas y Herramientas de Trading",
+        "description": "Plataformas y herramientas de trading avanzadas para mejorar tu experiencia de trading.",
+        "buttonText": "Explorar"
+      },
+      "service4": {
+        "label": "Servicio #4",
+        "title": "Monitoreo y Soporte de Trading",
+        "description": "Monitoreo y soporte integral de tus operaciones para garantizar resultados óptimos.",
+        "buttonText": "Explorar"
+      },
+      "service5": {
+        "title": "Guía Experta para el Crecimiento Financiero",
+        "description": "Consultoría personalizada para desarrollar estrategias efectivas de trading.",
+        "buttonText": "Comenzar Ahora"
+      }
+    },
+    "Funfact": {
+        "keyMetrics": "Métricas Clave",
+        "performance": "Nuestro Rendimiento a Simple Vista",
+        "averagePayout": "Tiempo Promedio de Procesamiento de Pagos",
+        "timeToOpenAccount": "Tiempo para Abrir una Cuenta de Trading",
+        "numberOfTrades": "Número de Operaciones Ejecutadas el Mes Pasado",
+        "experience": "Experiencia en Financiar Traders de Futuros",
+        "topUp": "Detalles de pago para el segundo semestre de 2024",
+        "million": "Millón",
+        "day": "Día",
+        "years": "Años",
+        "hours": "Horas",
+        "months": {
+            "apr": "Jul",
+            "may": "Ago",
+            "jun": "Sep",
+            "jul": "Oct",
+            "aug": "Nov",
+            "sep": "Dic"
+        }
+    },
+    "About": {
+        "about_title": "Acerca de Premier Payment Solutions LTD",
+        "about_subtitle": "Pioneros en el comercio de divisas propietario",
+        "about_description": "Adéntrese en el reino de la magia financiera con Premier Payment Solutions LTD, un oasis de comercio exclusivo que nutre el talento de los traders calificados que anhelan amplificar su fortuna a pesar de las limitaciones de capital.",
+        "specialization_title": "Especialización",
+        "specializations": [
+            "Comercio automatizado",
+            "Comercio de alta frecuencia",
+            "Análisis técnico"
+        ]
+    },
+    "Work": {
+        "howItWorks": "Cómo funciona",
+        "understandingTheEvaluationProcess": "Entendiendo el proceso de evaluación",
+        "process": "Proceso",
+        "step1": {
+            "title": "Paso #1",
+            "heading": "Desafío de Trading",
+            "description": "Participe en nuestro desafío de trading para demostrar sus habilidades y estrategias en un entorno de mercado real."
+        },
+        "step2": {
+            "title": "Paso #2",
+            "heading": "Verificación y Trading",
+            "description": "Una vez verificado, puede comenzar a operar con los fondos proporcionados, aplicando sus estrategias para maximizar los retornos."
+        },
+        "step3": {
+            "title": "Paso #3",
+            "heading": "Reciba sus Ganancias",
+            "description": "Después de operar con éxito, recibirá sus ganancias basadas en su rendimiento y las ganancias generadas."
+        }
+    },
+    "Pairs": {
+        "popular_pairs": "Pares Populares",
+        "top_pairs_pricing": "Principales Pares y Precios en el Mercado",
+        "eur_usd": {
+            "currency": "eur",
+            "exchange": "usd",
+            "price": "1.03",
+            "currency_rate": "+0.04%",
+            "sell": "Vender a 1.03",
+            "trade": "Operar"
+        },
+        "usd_jpy": {
+            "currency": "usd",
+            "exchange": "jpy",
+            "price": "151.81",
+            "currency_rate": "+0.04%",
+            "sell": "Vender a 151.81",
+            "trade": "Operar"
+        },
+        "gbp_usd": {
+            "currency": "Gbp",
+            "exchange": "usd",
+            "price": "1.24",
+            "currency_rate": "+0.05%",
+            "sell": "Vender a 1.24",
+            "trade": "Operar"
+        },
+        "eur_gbp": {
+            "currency": "eur",
+            "exchange": "Gbp",
+            "price": "0.83",
+            "currency_rate": "-0.12%",
+            "sell": "Vender a 0.83",
+            "trade": "Operar"
+        },
+        "see_more_pairs": "Ver Más Pares"
+    },
+    "Chooseus": {
+        "key_features": "Características Clave",
+        "why_trade_with_us": "Por Qué Negociar Con Nosotros",
+        "trading_access": {
+            "title": "Acceso a Trading 24/7",
+            "description": "Comercia criptomonedas las 24 horas con el acceso continuo al mercado y la ejecución en tiempo real de nuestra plataforma."
+        },
+        "competitive_fees": {
+            "title": "Tarifas Competitivas",
+            "description": "Disfruta de tarifas de trading líderes en la industria y una estructura de precios transparente en todos los pares de criptomonedas."
+        },
+        "advanced_security": {
+            "title": "Seguridad Avanzada",
+            "description": "Tus activos están protegidos por medidas de seguridad de nivel institucional, incluyendo almacenamiento en frío y autenticación de múltiples firmas."
+        },
+        "multiple_trading_pairs": {
+            "title": "Múltiples Pares de Trading",
+            "description": "Accede a una amplia gama de pares de trading de criptomonedas con alta liquidez y spreads competitivos."
+        },
+        "professional_tools": {
+            "title": "Herramientas Profesionales",
+            "description": "Utiliza gráficos avanzados, indicadores técnicos y herramientas de análisis de mercado para decisiones de trading informadas."
+        },
+        "dedicated_support": {
+            "title": "Soporte Dedicado",
+            "description": "Obtén asistencia experta de nuestro equipo de soporte al cliente disponible 24/7 para todas tus necesidades de trading y técnicas."
+        }
+    },
+    "Testimonial": {
+        "sectionTitle": "Testimonios",
+        "mainTitle": "Lo que dicen nuestros traders",
+        "trustpilot": {
+            "title": "Trustpilot",
+            "rating": "Mejor calificado",
+            "score": "4.9/5",
+            "reviewCount": "(Revisado por 1.5 millones de traders)"
+        },
+        "shareThoughts": "Comparte tus pensamientos sobre nuestros servicios",
+        "testimonials": [
+            {
+                "author": "Nathan Felix",
+                "designation": "Director @ Naxly Info Tech",
+                "experienceTitle": "Experiencia excepcional",
+                "experienceDescription": "La plataforma ha transformado mi experiencia de trading, haciéndola más eficiente y rentable.",
+                "rating": 5
+            },
+            {
+                "author": "Eloise Juniper",
+                "designation": "Fundadora, Thinkquest Technologies",
+                "experienceTitle": "Simple y eficiente",
+                "experienceDescription": "Las herramientas proporcionadas han hecho que el trading sea sencillo y efectivo.",
+                "rating": 5
+            }
+        ]
+    },
+    "Featured": {
+        "industryRecognition": "Reconocimiento de la industria",
+        "featuredIn": "Destacado en los principales medios financieros",
+        "topCryptoExchange": "Mejor intercambio de criptomonedas 2024",
+        "bestTradingPlatform": "Mejor plataforma de trading",
+        "mostSecureExchange": "Intercambio más seguro",
+        "excellenceInInnovation": "Excelencia en innovación",
+        "bestCustomerService": "Mejor servicio al cliente",
+        "mostTrustedBrand": "Marca más confiable",
+        "fastestGrowingExchange": "Intercambio de más rápido crecimiento",
+        "bestMobileTradingApp": "Mejor aplicación de trading móvil"
+    },
+    "AboutPage": {
+        "breadcrumbTitle": "Acerca de la Empresa",
+        "mainTitle": "Acerca de Premier Payment Solutions LTD",
+        "subTitle": "Líderes en Trading Forex Propietario",
+        "description": "Nuestra empresa forex ofrece soluciones innovadoras de trading, análisis experto y soporte al cliente excepcional, permitiendo a los traders sobresalir en el dinámico mercado de divisas.",
+        "awards": {
+            "globalForex": {
+                "title": "Premios Global Forex",
+                "date": "Marzo 2023"
+            },
+            "customerService": {
+                "title": "Mejor Servicio al Cliente",
+                "date": "Junio 2022"
+            }
+        },
+        "ceoInfo": {
+            "name": "Taimoor IQBAL",
+            "title": "CEO y Fundador",
+            "description": "Prevé el dolor y los problemas que están destinados a surgir."
+        },
+        "experience": {
+            "years": "10+",
+            "title": "Años",
+            "subtitle": "de Experiencia en el Mercado"
+        },
+        "performance": {
+            "title": "Ratio de Éxito del Último Año",
+            "value": "84.65%",
+            "increase": "+6.39%"
+        },
+        "corporateJourney": {
+            "title": "Trayectoria Corporativa",
+            "subtitle": "En el mundo del forex, Somos líderes",
+            "evolution": {
+                "title": "Evolución",
+                "description": "No hay nadie que ame o persiga el dolor por sí mismo."
+            }
+        },
+        "stats": {
+            "payoutTime": {
+                "value": "24",
+                "unit": "Horas",
+                "description": "Tiempo Promedio de Procesamiento de Pagos"
+            },
+            "accountEarning": {
+                "value": "1",
+                "unit": "Día",
+                "description": "Para Ganar una Cuenta de Trading"
+            },
+            "trades": {
+                "value": "900",
+                "unit": "Millón",
+                "description": "Número de Operaciones Abiertas el Mes Pasado"
+            },
+            "fundingExperience": {
+                "value": "10+",
+                "unit": "Años",
+                "description": "Proporcionando Fondos a Traders de Futuros"
+            }
+        },
+        "statements": {
+            "title": "Declaraciones",
+            "subtitle": "Principios rectores de nuestra empresa forex",
+            "mission": {
+                "title": "Nuestra Misión",
+                "description": "Quien elige disfrutar de placeres que no tienen consecuencias molestas o quien evita un dolor."
+            },
+            "vision": {
+                "title": "Nuestra Visión",
+                "description": "La misma culpa pertenece a aquellos que fallan en su deber por debilidad de voluntad."
+            },
+            "coreValues": {
+                "title": "Nuestros Valores Fundamentales",
+                "description": "Encuentra fallos en un hombre que elige disfrutar de un placer que no tiene consecuencias molestas.",
+                "values": [
+                    "Integridad",
+                    "Centrado en el Cliente",
+                    "Innovación",
+                    "Gestión de Riesgos",
+                    "Profesionalismo"
+                ]
+            }
+        },
+        "team": {
+            "title": "Miembros del Equipo",
+            "subtitle": "El equipo detrás de nuestro éxito",
+            "members": [
+                {
+                    "name": "Taimoor IQBAL",
+                    "role": "Fundador",
+                    "description": "Prevé el dolor y los problemas que están destinados a surgir."
+                },
+                {
+                    "name": "Gerald Ivor",
+                    "role": "Director Financiero",
+                    "description": "Nuestra capacidad de hacer lo que más nos gusta, cada placer ocurre."
+                },
+                {
+                    "name": "Nora Lillian",
+                    "role": "Directora de Trading",
+                    "description": "Mantiene en estos asuntos este principio de selección."
+                },
+                {
+                    "name": "Michal Starck",
+                    "role": "Analista de Mercado",
+                    "description": "Rechaza los placeres para asegurar otros placeres mayores."
+                }
+            ]
+        }
+    },
+"MetaTrader4": {
+  "platform": {
+    "title": "Plataforma Premier",
+    "subtitle": "¿Usas Premier? Obtén herramientas exclusivas con Premier",
+    "description": "Denunciar el placer y alabar el dolor nació y te dará un relato completo del sistema, exponiendo las enseñanzas reales.",
+    "features": {
+      "feature1": "Ejecución de operaciones ultrarrápida",
+      "feature2": "Operaciones desde un smartphone o tablet",
+      "feature3": "Sin mesa de operaciones, sin recotizaciones"
+    }
+  },
+  "download": {
+    "title": "Descargar Premier Comercio",
+    "mobile": {
+      "title": "Para usuarios móviles",
+      "subtitle": "Premier Comercio",
+      "description": "Disponible en plataformas Android y iPhone."
+    },
+    "desktop": {
+      "title": "Para usuarios de escritorio",
+      "subtitle": "Premier Comercio",
+      "description": "Disponible en plataformas Windows y macOS."
+    },
+    "web": {
+      "title": "Para terminal web",
+      "subtitle": "Premier Comercio",
+      "description": "Opera directamente desde tu navegador web."
+    }
+  },
+  "tutorial": {
+    "title": "Exploración de funciones de la plataforma",
+    "subtitle": "La plataforma Premier controla el mercado sin esfuerzo",
+    "videoTitle": "Introducción al trading de forex",
+    "duration": "Duración: 6.05 minutos",
+    "description": "Obtén un conocimiento profundo de la dinámica del mercado forex, domina estrategias de trading clave y posiciónate para aprovechar oportunidades en el mercado global."
+  },
+  "features": {
+    "title": "Aspectos clave",
+    "subtitle": "Funciones de la plataforma Premier",
+    "items": {
+      "item1": "90% de ejecución eficiente de operaciones",
+      "item2": "10% de optimización del procesamiento de órdenes",
+      "item3": "Evaluación en 1 paso"
+    }
+  },
+  "cta": {
+    "title": "¿No estás seguro si Premier es para ti?",
+    "subtitle": "Para comparaciones de funciones de la plataforma, consulta nuestra tabla.",
+    "contact": {
+      "email": {
+        "label": "¡Envíanos un correo!",
+        "value": "info@premiertradingplatform.com"
+      }
+    }
+  },
+  "onImg": {
+    "multiChart": "Gráficos múltiples",
+    "newfeed": "Fuente de noticias"
+  }
+},
+    "OurServices": {
+        "pageTitle": "Servicios",
+        "service1": {
+            "label": "Servicio #1",
+            "title": "Análisis de Mercado y Estrategia",
+            "description": "Análisis técnico y fundamental profesional de los mercados de criptomonedas para identificar oportunidades de trading estratégicas.",
+            "button": "Explorar"
+        },
+        "service2": {
+            "label": "Servicio #2",
+            "title": "Gestión de Cartera",
+            "description": "Servicios integrales de gestión de cartera de criptomonedas con evaluación de riesgos y estrategias de diversificación.",
+            "button": "Explorar"
+        },
+        "service3": {
+            "label": "Servicio #3",
+            "title": "Herramientas de Trading Avanzadas",
+            "description": "Acceso a una plataforma sofisticada de trading de criptomonedas con análisis en tiempo real y funciones de trading automatizado.",
+            "button": "Explorar"
+        },
+        "service4": {
+            "label": "Servicio #4",
+            "title": "Seguridad y Gestión de Riesgos",
+            "description": "Protocolos de seguridad integrales y estrategias de gestión de riesgos para proteger sus inversiones en criptomonedas.",
+            "button": "Explorar"
+        },
+        "service5": {
+            "label": "Servicio #5",
+            "title": "Educación en Inversiones",
+            "description": "Recursos educativos completos y programas de formación para la comprensión del mercado y el trading de criptomonedas.",
+            "button": "Explorar"
+        },
+        "service6": {
+            "label": "Servicio #6",
+            "title": "Inteligencia de Mercado",
+            "description": "Investigación actualizada del mercado de criptomonedas, análisis de tendencias y perspectivas de inversión accionables.",
+            "button": "Explorar"
+        },
+        "cta": {
+            "title": "¿Tiene preguntas sobre nuestros servicios?",
+            "description": "Contacte con nuestro equipo de expertos para obtener orientación personalizada sobre inversión en criptomonedas.",
+            "emailLabel": "Correo electrónico",
+            "email": "info@premiertradingplatform.com"
+        }
+    },
+
+    "ServiceDetail": {
+        "title1": "Servicios",
+        "title2": "Pares de Divisas",
+        "currencyPairs": "XAUUSD e Índices",
+        "tradingAccount": "Cuenta de Trading",
+        "platformsAndTools": "Plataformas y Herramientas",
+        "monitoringAndSupport": "Monitoreo y Soporte",
+        "educationAndTraining": "Educación y Formación",
+        "tradingConfidence": "Operando con Confianza, Ganando con Premier!...",
+        "navigatingMarkets": "Navegando Mercados, Maximizando Ganancias.",
+        "introducingPlatforms": "Introducción a Plataformas y Herramientas",
+        "introText": "Opera sin interrupciones con nuestra plataforma, que proporciona potentes funciones de trading. Premier Trade admite una amplia gama de herramientas y opciones personalizadas, permitiéndote tener control total sobre cada paso de tus operaciones. Nuestra plataforma también ofrece una versión web, para que puedas operar directamente desde tu navegador sin necesidad de descargar software. Mantente conectado con los cambios del mercado en tiempo real y ejecuta órdenes en cualquier momento y lugar.",
+        "benefitsTitle": "Beneficios de Plataformas y Herramientas",
+        "benefitsSubtext": "Nada nos impide hacer lo que más nos gusta; cada placer debe ser bienvenido.",
+    
+        "serviceD1": {
+          "content1": {
+            "title": "Introducción a XAUUSD e Índices",
+            "description": "Opera los XAUUSD e índices más populares del mundo, incluyendo índices bursátiles e índices de materias primas. Con el trading de oro e índices, puedes aprovechar la volatilidad del mercado para optimizar tus estrategias de inversión y obtener oportunidades de trading más flexibles. Ya sea que el mercado suba o baje, puedes operar eficientemente con diversas herramientas de trading para navegar el mercado con confianza."
+          },
+          "content2": {
+            "title": "Beneficios de los Pares de Divisas",
+            "description": "El trading de pares de divisas ofrece alta liquidez, spreads ajustados y diversas oportunidades de mercado. Con acceso a pares principales, menores y exóticos, los traders pueden aprovechar tendencias económicas globales, cubrir riesgos y ejecutar estrategias en un mercado descentralizado 24/5."
+          }
+        },
+        "serviceD2": {
+          "content1": {
+            "title": "Introducción a la Cuenta de Trading",
+            "description": "Elige entre una variedad de tipos de cuenta que se adapten a tus necesidades. Ya seas un principiante o un trader experimentado, ofrecemos cuentas con spreads competitivos y herramientas avanzadas para ayudarte a alcanzar tus objetivos financieros. La Cuenta Demo te permite practicar y familiarizarte con el mercado sin riesgo, mientras que la Cuenta Profesional ofrece ejecución rápida, spreads más bajos y opciones de personalización avanzadas para traders de alta frecuencia e inversores avanzados."
+          },
+          "content2": {
+            "title": "Beneficios de la Cuenta de Trading",
+            "description": "Una cuenta de trading proporciona acceso fluido al mercado de criptomonedas, permitiendo transacciones seguras, análisis en tiempo real y oportunidades estratégicas para maximizar ganancias."
+          }
+        },
+        "serviceD4": {
+          "content1": {
+            "title": "Introducción a Monitoreo y Soporte",
+            "description": "Nuestra plataforma proporciona herramientas de monitoreo de mercado en tiempo real para ayudarte a estar al tanto de los movimientos de precios. Ya sea gestión de cuentas, ejecución de operaciones o soporte técnico, nuestro equipo de atención al cliente está disponible 24/7 para asistirte. Garantizamos respuestas rápidas en todo momento, asegurando una experiencia de trading fluida y sin preocupaciones."
+          },
+          "content2": {
+            "title": "Beneficios de Monitoreo y Soporte",
+            "description": "El monitoreo regular y el soporte experto garantizan inversiones en criptomonedas seguras y optimizadas, ayudándote a mitigar riesgos, aprovechar oportunidades y maximizar rendimientos en un mercado volátil."
+          }
+        },
+        "serviceD5": {
+          "content1": {
+            "title": "Introducción a Educación y Formación",
+            "description": "La educación y formación integral empoderan a los traders con el conocimiento y las habilidades necesarias para navegar los mercados financieros y de criptomonedas. Nuestros programas cubren análisis fundamental y técnico, estrategias de gestión de riesgos y simulaciones prácticas de trading para mejorar la confianza y la toma de decisiones."
+          },
+          "content2": {
+            "title": "Beneficios de Educación y Formación",
+            "description": "Obtener la educación adecuada en trading te equipa con conocimientos esenciales del mercado, técnicas de gestión de riesgos y planificación estratégica. Con orientación experta y formación práctica, puedes mejorar tus habilidades de trading, tomar decisiones informadas y maximizar la rentabilidad en el dinámico mercado de criptomonedas."
+          }
+        },
+    
+        "benefits": {
+          "diversification": {
+            "title": "Diversificación",
+            "shortDesc": "La plataforma PREMIER ofrece diversificación en forex, acciones, criptomonedas y otros mercados, proporcionando diversas herramientas de trading y profundidad de mercado para satisfacer las necesidades de los inversores globales.",
+            "longDesc": "Socios de trading diversos mejoran la profundidad y estabilidad del mercado."
+          },
+          "globalExposure": {
+            "title": "Exposición Global",
+            "shortDesc": "La plataforma PREMIER tiene una gran base de usuarios globales, basada en una fuerte liquidez, un entorno de trading estable y una velocidad de ejecución rápida para garantizar una experiencia de inversión fluida.",
+            "longDesc": "Cobertura global de usuarios con liquidez inigualable."
+          },
+          "technicalAnalysis": {
+            "title": "Análisis Técnico",
+            "shortDesc": "La plataforma PREMIER utiliza herramientas avanzadas de análisis técnico para proporcionar a los traders información precisa y eficiente del mercado, ayudando en la toma de decisiones de inversión.",
+            "longDesc": "El soporte tecnológico de vanguardia garantiza una experiencia de trading fluida y estable."
+          },
+          "profitPotential": {
+            "title": "Potencial de Ganancias",
+            "shortDesc": "La plataforma PREMIER ofrece un apalancamiento de hasta 1:400, permitiendo a los inversores acceder a mayores oportunidades de mercado con menor capital, mejorando la eficiencia del trading y el potencial de ganancias.",
+            "longDesc": "Ayuda a los inversores a amplificar la eficiencia de su capital, permitiéndoles lograr mayores rendimientos en un mercado más amplio."
+          }
+        },
+        "features": [
+          "Evaluación de tu Progreso",
+          "Mejora Continua",
+          "Atención al Cliente 24/7"
+        ],
+        "whatsProvided": {
+          "title": "¿Qué se Proporciona?",
+          "description": "Ofrecemos una gama completa de herramientas de trading para potenciar tu éxito. Desde análisis de mercado en tiempo real hasta apalancamiento y margen flexibles, nuestra plataforma proporciona todo lo necesario para operar eficazmente. Opciones de depósito convenientes en varias divisas garantizan que puedas gestionar tus fondos fácilmente y enfocarte en el trading."
+        },
+        "tabs": {
+          "pairSelection": "Selección de Pares",
+          "majorCurrencyPair": "Pares de Trading Populares",
+          "minorExoticPairs": "Pares Menores y Exóticos",
+          "marketAnalysis": "Análisis del Mercado",
+          "leverageMargin": "Apalancamiento y Margen",
+          "tabContent": {
+            "features": [
+              "Elige entre una amplia variedad de pares de forex según tus preferencias de mercado. Ya sean pares principales, menores o exóticos, puedes seleccionar el que mejor se adapte a tu estrategia de trading.",
+              "Opera algunos de los pares más seguidos del mercado, como XAUUSD, conocido por su volatilidad y liquidez. Estos pares ofrecen importantes oportunidades de trading debido a su popularidad entre los traders y la demanda global de materias primas y divisas.",
+              "Aprovecha los conocimientos y análisis del mercado para anticiparte a las tendencias. Nuestra investigación de mercado integral te ayuda a comprender los movimientos clave del mercado y tomar decisiones informadas.",
+              "Comprende cómo funcionan el apalancamiento y el margen para potenciar tu capacidad de trading. Aprovecha el apalancamiento para maximizar posibles retornos mientras gestionas tus requisitos de margen para controlar riesgos."
+            ]
+          }
+        },
+        "cryptoInvestment": {
+      "title": "¿Cómo funciona la inversión en criptomonedas?",
+      "description": "Invertir en criptomonedas implica comprar activos digitales que utilizan tecnología blockchain. Estos activos pueden apreciarse con el tiempo, pero también conllevan riesgos. Comprender el proceso es crucial para tomar decisiones de inversión informadas.",
+      "steps": {
+        "openAccount": {
+          "title": "Abrir una cuenta de trading",
+          "description": "Para comenzar a invertir en criptomonedas, debes crear una cuenta en un exchange de confianza. Este proceso generalmente requiere proporcionar información personal y verificar tu identidad."
+        },
+        "fundTransfer": {
+          "title": "Transferencia de fondos segura y sencilla",
+          "description": "Una vez que tu cuenta esté configurada, puedes transferir fondos de forma segura utilizando diversos métodos, como transferencias bancarias, tarjetas de crédito o incluso otras criptomonedas. Asegúrate de seguir los protocolos de seguridad para proteger tus activos."
+        },
+        "exploreCrypto": {
+          "title": "Explora nuestros mercados de criptomonedas",
+          "description": "Después de financiar tu cuenta, puedes explorar diversos mercados de criptomonedas. Investiga diferentes monedas, analiza las tendencias del mercado y toma decisiones informadas sobre en qué activos invertir."
+        }
+      }
+    }
+    
+      },
+"Footer": {
+  "BecomeAPart": "Únete a",
+  "UpdateCommunity": "nuestra comunidad de actualizaciones...",
+  "Subscribers": "Suscriptores",
+  "RegulatedBy": "Regulado por MSB en EE. UU., Número: 31000288258194.",
+  "Trading": {
+    "Title": "Operaciones",
+    "MetaTrader4": "Premier Comercio",
+    "MetaTrader5": "Web"
+  },
+  "Services": {
+    "Title": "Servicios",
+    "ServicesOverview": "Resumen de servicios",
+    "CurrencyPairs": "Pares de divisas",
+    "TradingAccounts": "Cuentas de trading",
+    "PlatformTools": "Plataforma y herramientas",
+    "MonitoringSupports": "Monitoreo y soporte",
+    "EducationTraining": "Educación y formación",
+    "AboutCompany": "Sobre la empresa",
+    "Contact": "Contacto"
+  },
+  "Downloads": {
+    "AppStore": "App Store",
+    "GooglePlay": "Google Play",
+    "webver": "Versión web",
+    "h5ver": "Versión H5"
+  },
+  "Copyright": "Hecho con experiencia, Todos los derechos reservados.",
+  "Social": {
+    "Title": "Conexión social",
+    "Facebook": "Facebook",
+    "Twitter": "Twitter",
+    "Instagram": "Instagram",
+    "YouTube": "YouTube",
+    "Pinterest": "Pinterest"
+  },
+  "Legal": {
+    "PrivacyPolicy": "Política de privacidad",
+    "TermsConditions": "Términos y condiciones",
+    "Legal": "Legal"
+  }
+},
+    "contactUs": {
+    "sendMessage": "Senden Sie uns eine Nachricht",
+    "getInTouch": "Kontakt aufnehmen",
+    "assistMessage": "Wir sind hier, um Ihnen zu helfen. Zögern Sie nicht, uns eine Nachricht zu senden.",
+    "connectWithUs": "Verbinden Sie sich mit uns",
+    "companyEmail": "Unternehmens-E-Mail",
+    "emailAddress": "info@premiertradingplatform.com",
+    "officeAddress": "Hauptsitz-Adresse",
+    "address": {
+        "street": "30 Churchill Place",
+        "city": "Canary Wharf, London",
+        "country": "Vereinigtes Königreich, E14 5RE"
+    },
+    "customerService": "Online-Kundendienst"
+}
+
+}

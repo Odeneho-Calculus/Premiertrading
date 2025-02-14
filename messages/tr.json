@@ -1,0 +1,633 @@
+{
+    "Header": {
+      "Menu": {
+        "Home": "Ana Sayfa",
+        "About": "Hakkımızda",
+        "AboutCompany": "Şirket Hakkında",
+        "Trading": "Ticaret",
+        "Platform": "Platform",
+        "MetaTrader4": "MetaTrader 4",
+        "MetaTrader5": "MetaTrader 5",
+        "Services": "Hizmetler",
+        "ServicesOverview": "Hizmet Genel Bakış",
+        "PlatformTools": "Platform ve Araçlar",
+        "Contact": "İletişim"
+      }
+    },
+    "MobileMenu": {
+        "Home": "Ana Sayfa",
+        "About": "Hakkında",
+        "AboutCompany": "Şirket Hakkında",
+        "History": "Tarih",
+        "TeamMembers": "Ekip Üyeleri",
+        "Faqs": "SSS",
+        "Trading": "Ticaret",
+        "Services": "Hizmetler",
+        "ServicesOverview": "Hizmet Genel Bakış",
+        "PlatformTools": "Platform ve Araçlar",
+        "Contact": "İletişim",
+        "Twitter": "Twitter",
+        "Facebook": "Facebook",
+        "Pinterest": "Pinterest",
+        "Instagram": "Instagram",
+        "YouTube": "YouTube"
+    },
+    "Banner": {
+        "circleText": "Yatırım Yap . Ticaret Yap . Büyü .",
+        "welcome": "Premier Crypto Trading'e Hoş Geldiniz",
+        "navigate": "Dijital Varlık Pazarında Güvenle Gezin",
+        "strategic_investment": "Stratejik Kripto Yatırımı",
+        "diversify": "Portföyünüzü Dijital Varlıklarla Çeşitlendirin",
+        "advanced_trading": "Gelişmiş Ticaret Platformu",
+        "trade_professionally": "Profesyonel Araçlarla Kripto Ticaret Yapın",
+        "access_tools": "Kripto para piyasasında bilinçli yatırım kararları almak için gelişmiş ticaret araçlarına ve gerçek zamanlı piyasa analizine erişin.",
+        "secure_trading": "Kurumsal düzeyde güvenlik ve sofistike risk yönetimi araçları ile güvenli ticaret deneyimi yaşayın.",
+        "comprehensive_data": "Profesyonel ticaret platformumuzda kapsamlı piyasa verilerine, gelişmiş grafik araçlarına ve kesintisiz yürütmeye erişin."
+    },
+    "Services": {
+      "sectionTitle": "Hizmetlerimiz",
+      "sectionSubtitle": "Trading Başarısı İçin İhtiyacınız Olan Her Şey",
+      "service1": {
+        "label": "Hizmet #1",
+        "title": "Döviz Çifti Analizi",
+        "description": "Bilinçli trading kararları almanıza yardımcı olmak için derinlemesine döviz çifti analizi.",
+        "buttonText": "Keşfet"
+      },
+      "service2": {
+        "label": "Hizmet #2",
+        "title": "Özel Trading Hesapları",
+        "description": "Optimal performans ve karlılık için tasarlanmış özel trading hesaplarına erişim.",
+        "buttonText": "Keşfet"
+      },
+      "service3": {
+        "label": "Hizmet #3",
+        "title": "Trading Platform ve Araçları",
+        "description": "Trading deneyiminizi geliştirmek için gelişmiş trading platformları ve araçları.",
+        "buttonText": "Keşfet"
+      },
+      "service4": {
+        "label": "Hizmet #4",
+        "title": "Trading İzleme ve Destek",
+        "description": "Optimal sonuçlar için işlemlerinize kapsamlı izleme ve destek.",
+        "buttonText": "Keşfet"
+      },
+      "service5": {
+        "title": "Finansal Büyüme için Uzman Rehberliği",
+        "description": "Etkili trading stratejileri geliştirmek için kişiselleştirilmiş danışmanlık.",
+        "buttonText": "Şimdi Başla"
+      }
+    },
+    "Funfact": {
+        "keyMetrics": "Anahtar Göstergeler",
+        "performance": "Performansımızın Genel Görünümü",
+        "averagePayout": "Ortalama Ödeme İşlem Süresi",
+        "timeToOpenAccount": "Bir Ticaret Hesabı Açma Süresi",
+        "numberOfTrades": "Geçen Ay Gerçekleştirilen İşlem Sayısı",
+        "experience": "Vadeli İşlem Tüccarlarına Fon Sağlama Deneyimi",
+        "topUp": "2024 yılının ikinci yarısı için ödeme detayları",
+        "million": "Milyon",
+        "day": "Gün",
+        "years": "Yıl",
+        "hours": "Saat",
+        "months": {
+            "apr": "Tem",
+            "may": "Ağu",
+            "jun": "Eyl",
+            "jul": "Eki",
+            "aug": "Kas",
+            "sep": "Ara"
+        }
+    },
+    "About": {
+        "about_title": "Premier Payment Solutions LTD Hakkında",
+        "about_subtitle": "Özel döviz ticaretinde öncüler",
+        "about_description": "Premier Payment Solutions LTD ile finansal sihir dünyasına adım atın, sermaye kısıtlamalarına rağmen servetlerini artırmak isteyen yetenekli traderların yeteneklerini besleyen özel bir ticaret vahası.",
+        "specialization_title": "Uzmanlık",
+        "specializations": [
+            "Otomatik Ticaret",
+            "Yüksek Frekanslı Ticaret",
+            "Teknik Analiz"
+        ]
+    },
+    "Work": {
+        "howItWorks": "Nasıl Çalışır",
+        "understandingTheEvaluationProcess": "Değerlendirme Sürecini Anlamak",
+        "process": "Süreç",
+        "step1": {
+            "title": "Adım #1",
+            "heading": "Ticaret Mücadelesi",
+            "description": "Gerçek bir piyasa ortamında becerilerinizi ve stratejilerinizi göstermek için ticaret mücadelesine katılın."
+        },
+        "step2": {
+            "title": "Adım #2",
+            "heading": "Doğrulama ve Ticaret",
+            "description": "Doğrulandıktan sonra, sağlanan fonlarla ticare t yapmaya başlayabilir ve getirileri maksimize etmek için stratejilerinizi uygulayabilirsiniz."
+        },
+        "step3": {
+            "title": "Adım #3",
+            "heading": "Kazançlarınızı Alın",
+            "description": "Başarılı bir şekilde ticaret yaptıktan sonra, performansınıza ve üretilen karınıza bağlı olarak kazançlarınızı alacaksınız."
+        }
+    },
+    "Pairs": {
+        "popular_pairs": "Popüler Çiftler",
+        "top_pairs_pricing": "Piyasalardaki En İyi Çiftler ve Fiyatlar",
+        "eur_usd": {
+            "currency": "eur",
+            "exchange": "usd",
+            "price": "$1.06199 Usd",
+            "currency_rate": "+0.04%",
+            "sell": "1.06199'da Sat",
+            "trade": "Ticaret"
+        },
+        "usd_jpy": {
+            "currency": "usd",
+            "exchange": "jpy",
+            "price": "$1.22195 Usd",
+            "currency_rate": "+0.04%",
+            "sell": "1.06199'da Sat",
+            "trade": "Ticaret"
+        },
+        "gbp_usd": {
+            "currency": "Gbp",
+            "exchange": "usd",
+            "price": "$1.24100 Usd",
+            "currency_rate": "+0.05%",
+            "sell": "1.24350'de Sat",
+            "trade": "Ticaret"
+        },
+        "eur_gbp": {
+            "currency": "eur",
+            "exchange": "Gbp",
+            "price": "$0.08388 Usd",
+            "currency_rate": "-0.12%",
+            "sell": "0.06185'de Sat",
+            "trade": "Ticaret"
+        },
+        "see_more_pairs": "Daha Fazla Çift Gör"
+    },
+    "Chooseus": {
+        "key_features": "Anahtar Özellikler",
+        "why_trade_with_us": "Neden Bizimle Ticaret Yapmalısınız",
+        "trading_access": {
+            "title": "24/7 Ticaret Erişimi",
+            "description": "Platformumuzun sürekli piyasa erişimi ve gerçek zamanlı yürütmesi ile kripto para birimlerini her zaman ticaret yapın."
+        },
+        "competitive_fees": {
+            "title": "Rekabetçi Ücretler",
+            "description": "Tüm kripto para çiftlerinde sektör lideri ticaret ücretleri ve şeffaf fiyat yapısının tadını çıkarın."
+        },
+        "advanced_security": {
+            "title": "Gelişmiş Güvenlik",
+            "description": "Varlıklarınız, soğuk depolama ve çoklu imza kimlik doğrulaması dahil olmak üzere kurumsal düzeyde güvenlik önlemleriyle korunmaktadır."
+        },
+        "multiple_trading_pairs": {
+            "title": "Birden Fazla Ticaret Çifti",
+            "description": "Derin likidite ve rekabetçi spreadler ile geniş bir kripto para ticaret çiftine erişin."
+        },
+        "professional_tools": {
+            "title": "Profesyonel Araçlar",
+            "description": "Bilgili ticaret kararları için gelişmiş grafikler, teknik göstergeler ve piyasa analiz araçlarını kullanın."
+        },
+        "dedicated_support": {
+            "title": "Özel Destek",
+            "description": "Tüm ticaret ve teknik ihtiyaçlarınız için 24/7 müşteri destek ekibimizden uzman yardımı alın."
+        }
+    },
+    "Testimonial": {
+        "sectionTitle": "Referanslar",
+        "mainTitle": "Tüccarlarımız Ne Diyor",
+        "trustpilot": {
+            "title": "Trustpilot",
+            "rating": "En iyi puan",
+            "score": "4.9/5",
+            "reviewCount": "(1.5 milyon tüccar tarafından değerlendirildi)"
+        },
+        "shareThoughts": "Hizmetlerimiz hakkında düşüncelerinizi paylaşın",
+        "testimonials": [
+            {
+                "author": "Nathan Felix",
+                "designation": "Direktör @ Naxly Info Tech",
+                "experienceTitle": "Olağanüstü Deneyim",
+                "experienceDescription": "Bu platform, ticaret deneyimimi dönüştürdü, daha verimli ve karlı hale getirdi.",
+                "rating": 5
+            },
+            {
+                "author": "Eloise Juniper",
+                "designation": "Kurucu, Thinkquest Technologies",
+                "experienceTitle": "Basit ve Etkili",
+                "experienceDescription": "Sağlanan araçlar, ticareti basit ve etkili hale getirdi.",
+                "rating": 5
+            }
+        ]
+    },
+    "Featured": {
+        "industryRecognition": "Sektör Tanınırlığı",
+        "featuredIn": "Önde Gelen Finans Medyasında Yer Aldı",
+        "topCryptoExchange": "2024'ün En İyi Kripto Borsası",
+        "bestTradingPlatform": "En İyi Ticaret Platformu",
+        "mostSecureExchange": "En Güvenli Borsa",
+        "excellenceInInnovation": "İnovasyonda Mükemmellik",
+        "bestCustomerService": "En İyi Müşteri Hizmeti",
+        "mostTrustedBrand": "En Güvenilir Marka",
+        "fastestGrowingExchange": "En Hızla Büyüyen Borsa",
+        "bestMobileTradingApp": "En İyi Mobil Ticaret Uygulaması"
+    },
+    "OurServices": {
+        "pageTitle": "Hizmetler",
+    "service1": {
+      "label": "Hizmet #1",
+      "title": "Piyasa Analizi ve Strateji",
+      "description": "Stratejik ticaret fırsatlarını belirlemek için kripto para piyasalarının uzman teknik ve temel analizi.",
+      "button": "Keşfet"
+    },
+    "service2": {
+      "label": "Hizmet #2",
+      "title": "Portföy Yönetimi",
+      "description": "Risk değerlendirmesi ve çeşitlendirme stratejileri ile kapsamlı kripto para portföy yönetimi hizmetleri.",
+      "button": "Keşfet"
+    },
+    "service3": {
+      "label": "Hizmet #3",
+      "title": "Gelişmiş Ticaret Araçları",
+      "description": "Gerçek zamanlı analitik ve otomatik ticaret özellikleri ile gelişmiş kripto para ticaret platformlarına erişim.",
+      "button": "Keşfet"
+    },
+    "service4": {
+      "label": "Hizmet #4",
+      "title": "Güvenlik ve Risk Yönetimi",
+      "description": "Kripto para yatırımlarınızı korumak için kapsamlı güvenlik protokolleri ve risk yönetimi stratejileri.",
+      "button": "Keşfet"
+    },
+    "service5": {
+      "label": "Hizmet #5",
+      "title": "Yatırım Eğitimi",
+      "description": "Kripto para piyasası anlayışı ve ticareti için kapsamlı eğitim kaynakları ve eğitim programları.",
+      "button": "Keşfet"
+    },
+    "service6": {
+      "label": "Hizmet #6",
+      "title": "Piyasa İstihbaratı",
+      "description": "Güncel kripto para piyasası araştırmaları, trend analizi ve uygulanabilir yatırım öngörüleri.",
+      "button": "Keşfet"
+    },
+    "cta": {
+      "title": "Hizmetlerimiz Hakkında Sorularınız mı Var?",
+      "description": "Kişiselleştirilmiş kripto para yatırım rehberliği için uzman ekibimizle iletişime geçin.",
+      "emailLabel": "Bize E-posta Gönderin",
+      "email": "premierltd@gmail.com"
+    }
+  },
+
+  "MetaTrader4": {
+    "platform": {
+      "title": "Premier Platformu",
+      "subtitle": "Premier kullanıyor musunuz? Premier ile özel araçlara erişin",
+      "description": "Zevki reddedip acıyı yüceltmek doğmuştur ve size sistemin eksiksiz bir hesabını verecek, gerçek öğretileri açıklayacaktır.",
+      "features": {
+        "feature1": "Süper hızlı işlem gerçekleştirme",
+        "feature2": "Akıllı telefon veya tabletten işlem",
+        "feature3": "Dealing desk yok, requote yok"
+      }
+    },
+    "download": {
+      "title": "Premier Ticaret'i İndir",
+      "mobile": {
+        "title": "Mobil Kullanıcılar İçin",
+        "subtitle": "Premier Ticaret",
+        "description": "Android ve iPhone platformlarında mevcuttur."
+      },
+      "desktop": {
+        "title": "Masaüstü Kullanıcıları İçin",
+        "subtitle": "Premier Ticaret",
+        "description": "Windows ve macOS platformlarında mevcuttur."
+      },
+      "web": {
+        "title": "Web Terminali İçin",
+        "subtitle": "Premier Ticaret",
+        "description": "Web tarayıcınız üzerinden doğrudan işlem yapın."
+      }
+    },
+    "tutorial": {
+      "title": "Platform özelliklerini keşfedin",
+      "subtitle": "Premier platformu piyasayı zahmetsizce kontrol eder",
+      "videoTitle": "Forex işlemlerine giriş",
+      "duration": "Süre: 6.05 Dakika",
+      "description": "Forex piyasası dinamiklerini derinlemesine anlayın, temel işlem stratejilerinde uzmanlaşın ve küresel piyasalarda fırsatları yakalayın."
+    },
+    "features": {
+      "title": "Temel Öne Çıkanlar",
+      "subtitle": "Premier platform özellikleri",
+      "items": {
+        "item1": "%90 verimli işlem gerçekleştirme",
+        "item2": "%10 sipariş işleme optimizasyonu",
+        "item3": "1 adımlı değerlendirme"
+      }
+    },
+    "cta": {
+      "title": "Premier'in size uygun olup olmadığından emin değil misiniz?",
+      "subtitle": "Platform özellik karşılaştırmaları için tablomuza danışın.",
+      "contact": {
+        "email": {
+          "label": "Bize Yazın!",
+          "value": "info@premiertradingplatform.com"
+        }
+      }
+    },
+    "onImg": {
+      "multiChart": "Çoklu Grafikleme",
+      "newfeed": "Haber Akışı"
+    }
+  },
+
+  "Footer": {
+    "BecomeAPart": "Güncelleme topluluğumuzun",
+    "UpdateCommunity": "bir parçası olun...",
+    "Subscribers": "Aboneler",
+    "RegulatedBy": "ABD'de MSB tarafından düzenlenmiştir, Numarası: 31000288258194.",
+    "Trading": {
+      "Title": "İşlem",
+      "MetaTrader4": "Premier Ticaret",
+      "MetaTrader5": "Web"
+    },
+    "Services": {
+      "Title": "Hizmetler",
+      "ServicesOverview": "Hizmetlere genel bakış",
+      "CurrencyPairs": "Para çiftleri",
+      "TradingAccounts": "İşlem hesapları",
+      "PlatformTools": "Platform & araçlar",
+      "MonitoringSupports": "İzleme & destek",
+      "EducationTraining": "Eğitim & öğretim",
+      "AboutCompany": "Şirket hakkında",
+      "Contact": "İletişim"
+    },
+    "Downloads": {
+      "AppStore": "App Store",
+      "GooglePlay": "Google Play",
+      "webver": "Web versiyonu",
+      "h5ver": "H5 versiyonu"
+    },
+    "Copyright": "Uzmanlıkla Hazırlanmıştır, Tüm Hakları Saklıdır.",
+    "Social": {
+      "Title": "Sosyal Medya",
+      "Facebook": "Facebook",
+      "Twitter": "Twitter",
+      "Instagram": "Instagram",
+      "YouTube": "YouTube",
+      "Pinterest": "Pinterest"
+    },
+    "Legal": {
+      "PrivacyPolicy": "Gizlilik Politikası",
+      "TermsConditions": "Şartlar & Koşullar",
+      "Legal": "Yasal"
+    }
+  },
+
+  "ServiceDetail": {
+    "title1": "Hizmetler",
+    "title2": "Para Çiftleri",
+    "currencyPairs": "XAUUSD & Endeksler",
+    "tradingAccount": "İşlem Hesabı",
+    "platformsAndTools": "Platformlar & Araçlar",
+    "monitoringAndSupport": "İzleme & Destek",
+    "educationAndTraining": "Eğitim & Öğretim",
+    "tradingConfidence": "Premier ile Güvenle İşlem Yapın, Kazanın!...",
+    "navigatingMarkets": "Piyasalarda Gezinin, Karı Maksimize Edin.",
+    "introducingPlatforms": "Platformlar & Araçların Tanıtımı",
+    "introText": "Güçlü işlem özellikleri sunan platformumuzla sorunsuz bir şekilde işlem yapın. Premier Ticaret, geniş bir işlem aracı yelpazesini ve özelleştirme seçeneklerini destekleyerek işlemlerinizin her adımında tam kontrol sağlar. Platformumuz aynı zamanda bir Web Versiyonu sunar, böylece herhangi bir yazılım indirmenize gerek kalmadan doğrudan tarayıcınızdan işlem yapabilirsiniz. Gerçek zamanlı piyasa değişiklikleriyle bağlantıda kalın ve istediğiniz zaman, istediğiniz yerde emirlerinizi gerçekleştirin.",
+    "benefitsTitle": "Platformlar & Araçların Avantajları",
+    "benefitsSubtext": "En çok sevdiğimiz şeyi yapmamızı hiçbir şey engelleyemez, her zevk kabul edilmelidir.",
+
+    "serviceD1": {
+      "content1": {
+        "title": "XAUUSD & Endekslerin Tanıtımı",
+        "description": "Dünyanın en popüler XAUUSD ve hisse senedi endeksleri ile emtia endekslerini işlem yapın. Altın ve endeks işlemleriyle piyasa oynaklığından yararlanarak yatırım stratejilerinizi optimize edebilir ve daha esnek işlem fırsatlarını yakalayabilirsiniz. Piyasa yükselse de düşse de, çeşitli işlem araçlarıyla etkili bir şekilde etkileşim kurabilir ve piyasada kendinize güvenle ilerleyebilirsiniz."
+      },
+      "content2": {
+        "title": "Para Çiftlerinin Avantajları",
+        "description": "Para çiftleri işlemi yüksek likidite, sıkı spreadler ve çeşitli piyasa fırsatları sunar. Majör, minör ve egzotik çiftlere erişimle, traderlar küresel ekonomik trendlerden yararlanabilir, risklere karşı korunabilir ve 7/24 merkezi olmayan bir piyasada stratejilerini uygulayabilir."
+      }
+    },
+    "serviceD2": {
+      "content1": {
+        "title": "İşlem Hesabının Tanıtımı",
+        "description": "İhtiyaçlarınıza uygun çeşitli hesap türleri arasından seçim yapın. İster yeni başlayan ister deneyimli bir trader olun, rekabetçi spreadler ve finansal hedeflerinize ulaşmanıza yardımcı olacak gelişmiş araçlarla hesaplar sunuyoruz. Demo Hesap, risksiz bir şekilde pratik yapıp piyasaya aşina olmanızı sağlarken, Profesyonel Hesap yüksek frekanslı traderlar ve ileri düzey yatırımcılar için hızlı işlem gerçekleştirme, daha düşük spreadler ve daha fazla özelleştirme seçeneği sunar."
+      },
+      "content2": {
+        "title": "İşlem Hesabının Avantajları",
+        "description": "Bir işlem hesabı, kripto piyasasına sorunsuz erişim sağlar, güvenli işlemler, gerçek zamanlı analizler ve karı maksimize etmek için stratejik işlem fırsatları sunar."
+      }
+    },
+    "serviceD4": {
+      "content1": {
+        "title": "İzleme & Desteğin Tanıtımı",
+        "description": "Platformumuz, fiyat hareketlerini takip etmenize yardımcı olacak gerçek zamanlı piyasa izleme araçları sağlar. İster hesap yönetimi, ister işlem gerçekleştirme, ister teknik destek olsun, 7/24 müşteri destek ekibimiz her zaman yardıma hazırdır. Her zaman anında yanıt alacağınızı garanti ederek sorunsuz ve endişesiz bir işlem deneyimi sunuyoruz."
+      },
+      "content2": {
+        "title": "İzleme & Desteğin Avantajları",
+        "description": "Düzenli izleme ve uzman destek, riskleri azaltmanıza, fırsatları değerlendirmenize ve oynak bir piyasada getirilerinizi maksimize etmenize yardımcı olarak güvenli ve optimize edilmiş kripto yatırımları sağlar."
+      }
+    },
+    "serviceD5": {
+      "content1": {
+        "title": "Eğitim & Öğretimin Tanıtımı",
+        "description": "Kapsamlı eğitim ve öğretim, traderlara kripto ve finansal piyasalarda gezinmek için gereken bilgi ve becerileri kazandırır. Programlarımız temel ve teknik analiz, risk yönetimi stratejileri ve özgüveninizi artıracak pratik işlem simülasyonlarını kapsar."
+      },
+      "content2": {
+        "title": "Eğitim & Öğretimin Avantajları",
+        "description": "Doğru işlem eğitimi, temel piyasa bilgileri, risk yönetimi teknikleri ve stratejik planlama ile sizi donatır. Uzman rehberliği ve pratik eğitimle, işlem becerilerinizi geliştirebilir, bilinçli kararlar alabilir ve dinamik kripto piyasasında karlılığınızı artırabilirsiniz."
+      }
+    },
+
+    "benefits": {
+      "diversification": {
+        "title": "Çeşitlendirme",
+        "shortDesc": "PREMIER platformu forex, hisse senetleri, kripto paralar ve diğer alanlarda çeşitlendirme sunarak, küresel yatırımcıların ihtiyaçlarını karşılayacak çeşitli işlem araçları ve piyasa derinliği sağlar",
+        "longDesc": "Çeşitli işlem ortakları piyasa derinliğini ve istikrarını artırır"
+      },
+      "globalExposure": {
+        "title": "Küresel Maruziyet",
+        "shortDesc": "PREMIER platformu geniş bir küresel kullanıcı kitlesine sahiptir, güçlü likidite, istikrarlı bir işlem ortamı ve hızlı işlem hızına dayanarak kullanıcılar için sorunsuz bir yatırım deneyimi sağlar. Yatırımcılar için istikrarlı ve verimli bir işlem ortamı yaratıyoruz.",
+        "longDesc": "Eşsiz likidite ile küresel kullanıcı kapsamı"
+      },
+      "technicalAnalysis": {
+        "title": "Teknik Analiz",
+        "shortDesc": "PREMIER platformu, yatırım kararlarına yardımcı olmak için traderlara doğru ve verimli piyasa içgörüleri sağlamak üzere gelişmiş teknik analiz araçları kullanır. Büyük veri ve yapay zekayı entegre ederek gerçek zamanlı piyasa güncellemeleri sunar ve işlem gerçekleştirme verimliliğini optimize eder.",
+        "longDesc": "En son teknoloji desteği sağlar, sorunsuz ve istikrarlı bir işlem deneyimi sunar."
+      },
+      "profitPotential": {
+        "title": "Kâr Potansiyeli",
+        "shortDesc": "PREMIER platformu, yatırımcıların daha küçük sermaye ile daha büyük piyasa fırsatlarına erişim sağlamasına olanak tanıyan 1:400'e kadar kaldıraç sunarak işlem verimliliğini ve kâr potansiyelini artırır, hızlı değişen bir piyasada daha fazla fırsat yakalamalarını sağlar.",
+        "longDesc": "Yatırımcıların sermaye verimliliğini artırmalarına yardımcı olur, daha geniş bir piyasada daha yüksek getiriler elde etmelerini sağlar."
+      }
+    },
+    "features": [
+      "İlerlemenizi Değerlendirme",
+      "Sürekli Gelişim",
+      "7/24 Müşteri Desteği"
+    ],
+    "whatsProvided": {
+      "title": "Neler Sunuluyor?",
+      "description": "Başarınızı güçlendirmek için tam bir işlem aracı yelpazesi sunuyoruz. Gerçek zamanlı piyasa analizlerinden esnek kaldıraç ve marja kadar, platformumuz etkili bir şekilde işlem yapmanız için gereken her şeyi sağlar. Çeşitli para birimlerinde kolayca yönetebileceğiniz uygun depozito seçenekleri ile fonlarınızı kolayca yönetebilir ve işlem yapmaya odaklanabilirsiniz."
+    },
+    "tabs": {
+      "pairSelection": "Çift seçimi",
+      "majorCurrencyPair": "Popüler İşlem Çiftleri",
+      "minorExoticPairs": "Minör & Egzotik Çiftler",
+      "marketAnalysis": "Piyasa Analizi",
+      "leverageMargin": "Kaldıraç & Marj",
+      "tabContent": {
+        "features": [
+          "Piyasa tercihlerinize göre geniş bir forex çiftleri yelpazesinden seçim yapın. İster majör, ister minör, ister egzotik çiftler olsun, ticaret stratejinize uygun olanı seçebilirsiniz.",
+          "Piyasa da en çok takip edilen çiftlerden bazılarıyla işlem yapın, örneğin, oynaklığı ve likiditesi ile bilinen XAUUSD. Bu çiftler, traderlar arasında popülaritesi ve emtia ile para birimlerine olan küresel talep nedeniyle önemli işlem fırsatları sunar.",
+          "Trendlerin önünde kalmak için uzman piyasa içgörülerinden ve analizlerinden yararlanın. Kapsamlı piyasa araştırmamız, önemli piyasa hareketlerini anlamanıza ve bilinçli işlem kararları almanıza yardımcı olur.",
+          "Kaldıraç ve marjın nasıl çalıştığını anlayarak işlem gücünüzü artırın. Potansiyel getirileri maksimize etmek için kaldıraçtan yararlanın, aynı zamanda riskleri kontrol etmek için marj gereksinimlerinizi yönetin."
+        ]
+      }
+    },
+    "cryptoInvestment": {
+      "title": "Kripto Yatırımı Nasıl Çalışır?",
+      "description": "Kripto para birimlerine yatırım yapmak, blok zinciri teknolojisini kullanan dijital varlıkları satın almayı içerir. Bu varlıklar zamanla değer kazanabilir, ancak aynı zamanda riskler de taşır. Sürecin anlaşılması, bilinçli yatırım kararları almak için kritik öneme sahiptir.",
+      "steps": {
+        "openAccount": {
+          "title": "Bir İşlem Hesabı Açın",
+          "description": "Kripto para birimlerine yatırım yapmaya başlamak için güvenilir bir borsa üzerinde bir hesap oluşturmanız gerekir. Bu süreç genellikle kişisel bilgilerinizi sağlamayı ve kimliğinizi doğrulamayı içerir."
+        },
+        "fundTransfer": {
+          "title": "Güvenli & Kolay Fon Transferi",
+          "description": "Hesabınız kurulduktan sonra, banka transferleri, kredi kartları veya diğer kripto para birimleri gibi çeşitli yöntemlerle güvenli bir şekilde fon transferi yapabilirsiniz. Varlıklarınızı korumak için güvenlik protokollerine uyduğunuzdan emin olun."
+        },
+        "exploreCrypto": {
+          "title": "Kripto Para Pazarlarımızı Keşfedin",
+          "description": "Hesabınızı finanse ettikten sonra, çeşitli kripto para piyasalarını keşfedebilirsiniz. Farklı coinleri araştırın, piyasa trendlerini analiz edin ve hangi varlıklara yatırım yapacağınıza dair bilinçli kararlar alın."
+        }
+      }
+    }
+  },
+    "AboutPage": {
+        "breadcrumbTitle": "Şirket Hakkında",
+        "mainTitle": "Premier Payment Solutions LTD Hakkında",
+        "subTitle": "Özel Forex Ticaretinde Lider",
+        "description": "Forex şirketimiz, yenilikçi ticaret çözümleri, uzman analizleri ve üstün müşteri desteği sunarak, tüccarların dinamik döviz piyasasında başarılı olmalarını sağlıyor.",
+        "awards": {
+            "globalForex": {
+                "title": "Global Forex Ödülleri",
+                "date": "Mart 2023"
+            },
+            "customerService": {
+                "title": "En İyi Müşteri Hizmeti",
+                "date": "Haziran 2022"
+            }
+        },
+        "ceoInfo": {
+            "name": "Taimoor IQBAL",
+            "title": "CEO ve Kurucu",
+            "description": "Kaçınılmaz olarak ortaya çıkacak zorlukları ve sorunları öngörür."
+        },
+        "experience": {
+            "years": "10+",
+            "title": "Yıl",
+            "subtitle": "Piyasa Deneyimi"
+        },
+        "performance": {
+            "title": "Geçen Yılın Başarı Oranı",
+            "value": "84.65%",
+            "increase": "+6.39%"
+        },
+        "corporateJourney": {
+            "title": "Kurumsal Yolculuk",
+            "subtitle": "Forex dünyasında biz liderlik ediyoruz",
+            "evolution": {
+                "title": "Evrim",
+                "description": "Acının kendisini seven veya peşinden koşan kimse yoktur."
+            }
+        },
+        "stats": {
+            "payoutTime": {
+                "value": "24",
+                "unit": "Saat",
+                "description": "Ortalama Ödeme İşlem Süresi"
+            },
+            "accountEarning": {
+                "value": "1",
+                "unit": "Gün",
+                "description": "Ticaret Hesabı Kazanma Süresi"
+            },
+            "trades": {
+                "value": "10",
+                "unit": "Milyon",
+                "description": "Geçen Ay Açılan İşlem Sayısı"
+            },
+            "fundingExperience": {
+                "value": "10+",
+                "unit": "Yıl",
+                "description": "Vadeli İşlem Tüccarlarına Fon Sağlama"
+            }
+        },
+        "statements": {
+            "title": "Beyanlar",
+            "subtitle": "Forex şirketimizin rehber ilkeleri",
+            "mission": {
+                "title": "Misyonumuz",
+                "description": "Hoş olmayan sonuçları olmayan zevkleri seçen veya acıdan kaçınan kişi."
+            },
+            "vision": {
+                "title": "Vizyonumuz",
+                "description": "İrade zayıflığı nedeniyle görevlerini yerine getirmeyenlere de aynı suç aittir."
+            },
+            "coreValues": {
+                "title": "Temel Değerlerimiz",
+                "description": "Hoş olmayan sonuçları olmayan bir zevki seçen kişideki kusurları bulun.",
+                "values": [
+                    "Dürüstlük",
+                    "Müşteri Odaklılık",
+                    "İnovasyon",
+                    "Risk Yönetimi",
+                    "Profesyonellik"
+                ]
+            }
+        },
+        "team": {
+            "title": "Ekip Üyeleri",
+            "subtitle": "Başarımızın arkasındaki ekip",
+            "members": [
+                {
+                    "name": "Taimoor IQBAL",
+                    "role": "Kurucu",
+                    "description": "Kaçınılmaz olarak ortaya çıkacak zorlukları ve sorunları öngörür."
+                },
+                {
+                    "name": "Gerald Ivor",
+                    "role": "Finans Direktörü",
+                    "description": "En çok sevdiğimiz şeyi yapabilme yeteneğimiz, her zevk gerçekleşir."
+                },
+                {
+                    "name": "Nora Lillian",
+                    "role": "Ticaret Başkanı",
+                    "description": "Bu konularda bu seçim ilkesini korur."
+                },
+                {
+                    "name": "Michal Starck",
+                    "role": "Piyasa Analisti",
+                    "description": "Daha büyük zevkler elde etmek için zevklerden vazgeçer."
+                }
+            ]
+        }
+    },
+    "contactUs": {
+    "sendMessage": "Bize mesaj gönderin",
+    "getInTouch": "Bizimle iletişime geçin",
+    "assistMessage": "Size yardımcı olmak için buradayız. Bize mesaj göndererek iletişime geçmekten çekinmeyin.",
+    "connectWithUs": "Bizimle bağlantı kurun",
+    "companyEmail": "Şirket e-postası",
+    "emailAddress": "info@premiertradingplatform.com",
+    "officeAddress": "Merkez ofis adresi",
+    "address": {
+        "street": "30 Churchill Place",
+        "city": "Canary Wharf, Londra",
+        "country": "Birleşik Krallık, E14 5RE"
+    },
+    "customerService": "Çevrimiçi müşteri hizmetleri"
+}
+
+}

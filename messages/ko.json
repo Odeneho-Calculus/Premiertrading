@@ -1,0 +1,629 @@
+{
+    "Header": {
+      "Menu": {
+        "Home": "홈",
+        "About": "회사 소개",
+        "AboutCompany": "회사 정보",
+        "Trading": "거래",
+        "Platform": "플랫폼",
+        "MetaTrader4": "Premier Trade",
+        "MetaTrader5": "Web",
+        "Services": "서비스",
+        "ServicesOverview": "서비스 개요",
+        "PlatformTools": "플랫폼 및 도구",
+        "Contact": "문의하기"
+      }
+    },
+    "MobileMenu": {
+        "Home": "홈",
+        "About": "소개",
+        "AboutCompany": "회사 소개",
+        "History": "역사",
+        "TeamMembers": "팀원",
+        "Faqs": "자주 묻는 질문",
+        "Trading": "거래",
+        "Services": "서비스",
+        "ServicesOverview": "서비스 개요",
+        "PlatformTools": "플랫폼 및 도구",
+        "Contact": "연락처",
+        "Twitter": "트위터",
+        "Facebook": "페이스북",
+        "Pinterest": "핀터레스트",
+        "Instagram": "인스타그램",
+        "YouTube": "유튜브"
+    },
+    "Banner": {
+        "circleText": "투자 . 거래 . 성장 .",
+        "welcome": "프리미어 암호 거래에 오신 것을 환영합니다",
+        "navigate": "디지털 자산 시장을 자신 있게 탐색하세요",
+        "strategic_investment": "전략적 암호 투자",
+        "diversify": "디지털 자산으로 포트폴리오를 다양화하세요",
+        "advanced_trading": "고급 거래 플랫폼",
+        "trade_professionally": "전문 도구로 암호화폐 거래",
+        "access_tools": "암호화폐 시장에서 정보에 기반한 투자 결정을 내리기 위한 고급 거래 도구와 실시간 시장 분석에 접근하세요.",
+        "secure_trading": "기관 수준의 보안과 정교한 리스크 관리 도구로 안전한 거래를 경험하세요.",
+        "comprehensive_data": "전문 거래 플랫폼에서 포괄적인 시장 데이터, 고급 차트 도구 및 원활한 실행에 접근하세요."
+    },
+    "Services": {
+      "sectionTitle": "서비스",
+      "sectionSubtitle": "트레이딩 성공을 위한 모든 것",
+      "service1": {
+        "label": "서비스 #1",
+        "title": "통화쌍 분석",
+        "description": "정보에 입각한 거래 결정을 내리는 데 도움이 되는 심층 통화쌍 분석.",
+        "buttonText": "자세히 보기"
+      },
+      "service2": {
+        "label": "서비스 #2",
+        "title": "자기자본 거래 계좌",
+        "description": "최적의 성과와 수익성을 위해 설계된 자기자본 거래 계좌 이용.",
+        "buttonText": "자세히 보기"
+      },
+      "service3": {
+        "label": "서비스 #3",
+        "title": "거래 플랫폼 및 도구",
+        "description": "거래 경험을 향상시키는 고급 거래 플랫폼 및 도구.",
+        "buttonText": "자세히 보기"
+      },
+      "service4": {
+        "label": "서비스 #4",
+        "title": "거래 모니터링 및 지원",
+        "description": "최적의 결과를 보장하기 위한 포괄적인 거래 모니터링 및 지원.",
+        "buttonText": "자세히 보기"
+      },
+      "service5": {
+        "title": "금융 성장을 위한 전문가 지침",
+        "description": "효과적인 거래 전략 개발을 위한 맞춤형 컨설팅.",
+        "buttonText": "시작하기"
+      }
+    },
+    "Funfact": {
+        "keyMetrics": "주요 지표",
+        "performance": "우리의 성과 개요",
+        "averagePayout": "평균 지급 처리 시간",
+        "timeToOpenAccount": "거래 계좌 개설 시간",
+        "numberOfTrades": "지난 달 실행된 거래 수",
+        "experience": "선물 거래자 자금 지원 경험",
+        "topUp": "2024년 하반기 지급 세부사항",
+        "million": "백만",
+        "day": "일",
+        "years": "년",
+        "hours": "시간",
+        "months": {
+            "apr": "7월",
+            "may": "8월",
+            "jun": "9월",
+            "jul": "10월",
+            "aug": "11월",
+            "sep": "12월"
+        }
+    },
+    "About": {
+        "about_title": "프리미어 결제 솔루션 주식회사 소개",
+        "about_subtitle": "독점 외환 거래의 선구자",
+        "about_description": "프리미어 결제 솔루션 주식회사의 자금 지원으로 자본의 제약에도 불구하고 재산을 증대시키고자 하는 숙련된 트레이더의 재능을 키우는 독점 거래 오아시스에 발을 들여보세요.",
+        "specialization_title": "전문 분야",
+        "specializations": [
+            "자동 거래",
+            "고빈도 거래",
+            "기술적 분석"
+        ]
+    },
+    "Work": {
+        "howItWorks": "작동 방식",
+        "understandingTheEvaluationProcess": "평가 프로세스 이해",
+        "process": "프로세스",
+        "step1": {
+            "title": "단계 #1",
+            "heading": "트레이딩 챌린지",
+            "description": "실제 시장 환경에서 기술과 전략을 보여주기 위해 트레이딩 챌린지에 참여하세요."
+        },
+        "step2": {
+            "title": "단계 #2",
+            "heading": "검증 및 거래",
+            "description": "검증이 완료되면 제공된 자금으로 거래를 시작하고 전략을 적용하여 수익을 극대화할 수 있습니다."
+        },
+        "step3": {
+            "title": "단계 #3",
+            "heading": "수익 받기",
+            "description": "성공적으로 거래한 후, 성과와 생성된 이익에 따라 수익을 받게 됩니다."
+        }
+    },
+    "Pairs": {
+        "popular_pairs": "인기 쌍",
+        "top_pairs_pricing": "시장 내 최고의 쌍 및 가격",
+        "eur_usd": {
+            "currency": "유로",
+            "exchange": "달러",
+            "price": "1.03",
+            "currency_rate": "+0.04%",
+            "sell": "1.03에 판매",
+            "trade": "거래"
+        },
+        "usd_jpy": {
+            "currency": "달러",
+            "exchange": "엔",
+            "price": "151.81",
+            "currency_rate": "+0.04%",
+            "sell": "151.81에 판매",
+            "trade": "거래"
+        },
+        "gbp_usd": {
+            "currency": "파운드",
+            "exchange": "달러",
+            "price": "1.24",
+            "currency_rate": "+0.05%",
+            "sell": "1.24에 판매",
+            "trade": "거래"
+        },
+        "eur_gbp": {
+            "currency": "유로",
+            "exchange": "파운드",
+            "price": "0.83",
+            "currency_rate": "-0.12%",
+            "sell": "0.83에 판매",
+            "trade": "거래"
+        },
+        "see_more_pairs": "더 많은 쌍 보기"
+    },
+    "Chooseus": {
+        "key_features": "주요 기능",
+        "why_trade_with_us": "왜 우리와 거래해야 할까요",
+        "trading_access": {
+            "title": "24/7 거래 접근",
+            "description": "플랫폼의 지속적인 시장 접근과 실시간 실행으로 암호화폐를 연중무휴로 거래하세요."
+        },
+        "competitive_fees": {
+            "title": "경쟁력 있는 수수료",
+            "description": "모든 암호화폐 쌍에 대해 업계 최고의 거래 수수료와 투명한 가격 구조를 즐기세요."
+        },
+        "advanced_security": {
+            "title": "고급 보안",
+            "description": "당신의 자산은 콜드 스토리지 및 다중 서명 인증을 포함한 기관급 보안 조치로 보호됩니다."
+        },
+        "multiple_trading_pairs": {
+            "title": "다양한 거래 쌍",
+            "description": "깊은 유동성과 경쟁력 있는 스프레드를 가진 다양한 암호화폐 거래 쌍에 접근하세요."
+        },
+        "professional_tools": {
+            "title": "전문 도구",
+            "description": "정보에 기반한 거래 결정을 위해 고급 차트, 기술 지표 및 시장 분석 도구를 활용하세요."
+        },
+        "dedicated_support": {
+            "title": "전담 지원",
+            "description": "거래 및 기술적 요구 사항에 대해 24/7 고객 지원 팀으로부터 전문가의 도움을 받으세요."
+        }
+    },
+    "Testimonial": {
+        "sectionTitle": "추천사",
+        "mainTitle": "트레이더들이 말하는 것",
+        "trustpilot": {
+            "title": "트러스트파일럿",
+            "rating": "최고 평가",
+            "score": "4.9/5",
+            "reviewCount": "(150만 트레이더의 리뷰)"
+        },
+        "shareThoughts": "우리 서비스에 대한 당신의 생각을 공유하세요",
+        "testimonials": [
+            {
+                "author": "네이선 펠릭스",
+                "designation": "Naxly Info Tech 이사",
+                "experienceTitle": "탁월한 경험",
+                "experienceDescription": "이 플랫폼은 제 거래 경험을 변화시켜 더 효율적이고 수익성 있게 만들었습니다.",
+                "rating": 5
+            },
+            {
+                "author": "엘로이즈 주니퍼",
+                "designation": "Thinkquest Technologies 창립자",
+                "experienceTitle": "간단하고 효율적",
+                "experienceDescription": "제공된 도구는 거래를 간단하고 효과적으로 만들었습니다.",
+                "rating": 5
+            }
+        ]
+    },
+    "Featured": {
+        "industryRecognition": "산업 인식",
+        "featuredIn": "주요 금융 미디어에 소개됨",
+        "topCryptoExchange": "2024년 최고의 암호화폐 거래소",
+        "bestTradingPlatform": "최고의 거래 플랫폼",
+        "mostSecureExchange": "가장 안전한 거래소",
+        "excellenceInInnovation": "혁신의 우수성",
+        "bestCustomerService": "최고의 고객 서비스",
+        "mostTrustedBrand": "가장 신뢰받는 브랜드",
+        "fastestGrowingExchange": "가장 빠르게 성장하는 거래소",
+        "bestMobileTradingApp": "최고의 모바일 거래 앱"
+    },
+
+    "MetaTrader4": {
+        "platform": {
+          "title": "Premier 플랫폼",
+          "subtitle": "Premier를 사용 중이신가요? Premier와 함께 독점 도구를 활용하세요",
+          "description": "쾌락을 비난하고 고통을 찬미하는 태도의 출생에 대해 완전한 계정을 제공하며, 실제 교훈을 설명합니다.",
+          "features": {
+            "feature1": "초고속 주문 실행",
+            "feature2": "스마트폰 또는 태블릿에서 거래",
+            "feature3": "딜링 데스크 없음, 재호가 없음"
+          }
+        },
+        "download": {
+          "title": "Premier 트레이드 다운로드",
+          "mobile": {
+            "title": "모바일 사용자를 위한",
+            "subtitle": "Premier 트레이드",
+            "description": "Android 및 iPhone 플랫폼에서 사용 가능"
+          },
+          "desktop": {
+            "title": "데스크톱 사용자를 위한",
+            "subtitle": "Premier 트레이드",
+            "description": "Windows 및 macOS 플랫폼에서 사용 가능"
+          },
+          "web": {
+            "title": "웹 터미널",
+            "subtitle": "Premier 트레이드",
+            "description": "웹 브라우저에서 직접 거래"
+          }
+        },
+        "tutorial": {
+          "title": "플랫폼 기능 탐색",
+          "subtitle": "Premier 플랫폼으로 시장을 손쉽게 제어하세요",
+          "videoTitle": "외환 거래 소개",
+          "duration": "길이: 6분 05초",
+          "description": "외환 시장 역학에 대한 심층적인 이해를 얻고, 핵심 거래 전략을 숙지하며 글로벌 시장에서 기회를 포착할 준비를 하세요."
+        },
+        "features": {
+          "title": "주요 하이라이트",
+          "subtitle": "Premier 플랫폼 기능",
+          "items": {
+            "item1": "90% 효율적인 주문 실행",
+            "item2": "10% 주문 처리 최적화",
+            "item3": "1단계 평가"
+          }
+        },
+        "cta": {
+          "title": "Premier가 나에게 적합한지 모르겠나요?",
+          "subtitle": "플랫폼 기능 비교를 위해 표를 참조하세요.",
+          "contact": {
+            "email": {
+              "label": "이메일 보내기!",
+              "value": "info@premiertradingplatform.com"
+            }
+          }
+        },
+        "onImg": {
+          "multiChart": "다중 차트",
+          "newfeed": "뉴스 피드"
+        }
+      },
+      "Footer": {
+        "BecomeAPart": "함께하세요",
+        "UpdateCommunity": "업데이트 커뮤니티의 일원으로...",
+        "Subscribers": "구독자",
+        "RegulatedBy": "미국 MSB 규제 번호: 31000288258194.",
+        "Trading": {
+          "Title": "거래",
+          "MetaTrader4": "Premier 트레이드",
+          "MetaTrader5": "웹"
+        },
+        "Services": {
+          "Title": "서비스",
+          "ServicesOverview": "서비스 개요",
+          "CurrencyPairs": "통화 쌍",
+          "TradingAccounts": "거래 계정",
+          "PlatformTools": "플랫폼 및 도구",
+          "MonitoringSupports": "모니터링 및 지원",
+          "EducationTraining": "교육 및 훈련",
+          "AboutCompany": "회사 소개",
+          "Contact": "문의"
+        },
+        "Downloads": {
+          "AppStore": "앱 스토어",
+          "GooglePlay": "구글 플레이",
+          "webver": "웹 버전",
+          "h5ver": "H5 버전"
+        },
+        "Copyright": "전문성으로 제작됨, 모든 권리 보유.",
+        "Social": {
+          "Title": "소셜 연결",
+          "Facebook": "페이스북",
+          "Twitter": "트위터",
+          "Instagram": "인스타그램",
+          "YouTube": "유튜브",
+          "Pinterest": "핀터레스트"
+        },
+        "Legal": {
+          "PrivacyPolicy": "개인정보 보호정책",
+          "TermsConditions": "이용 약관",
+          "Legal": "법적 정보"
+        }
+      },
+      "ServiceDetail": {
+        "title1": "서비스",
+        "title2": "통화 쌍",
+        "currencyPairs": "XAUUSD & 지수",
+        "tradingAccount": "거래 계정",
+        "platformsAndTools": "플랫폼 및 도구",
+        "monitoringAndSupport": "모니터링 및 지원",
+        "educationAndTraining": "교육 및 훈련",
+        "tradingConfidence": "Premier와 함께 자신 있게 거래하고 승리하세요!...",
+        "navigatingMarkets": "시장을 탐색하고 수익을 극대화하세요.",
+        "introducingPlatforms": "플랫폼 및 도구 소개",
+        "introText": "강력한 거래 기능을 제공하는 플랫폼으로 원활하게 거래하세요. Premier 트레이드는 다양한 거래 도구와 맞춤 옵션을 지원하여 모든 거래 단계를 완벽하게 제어할 수 있도록 합니다. 웹 버전도 제공되므로 소프트웨어를 다운로드하지 않고도 브라우저에서 직접 거래할 수 있습니다. 실시간 시장 변동에 연결되고 언제 어디서나 주문을 실행하세요.",
+        "benefitsTitle": "플랫폼 및 도구의 혜택",
+        "benefitsSubtext": "우리가 가장 좋아하는 일을 방해하는 것은 없습니다. 모든 즐거움은 환영받아야 합니다.",
+        "serviceD1": {
+          "content1": {
+            "title": "XAUUSD & 지수 소개",
+            "description": "세계에서 가장 인기 있는 XAUUSD 및 주식 지수, 상품 지수를 거래하세요. 금 및 지수 거래를 통해 시장 변동성을 활용하여 투자 전략을 최적화하고 유연한 거래 기회를 잡을 수 있습니다."
+          },
+          "content2": {
+            "title": "통화 쌍의 혜택",
+            "description": "통화 쌍 거래는 높은 유동성, 타이트한 스프레드, 다양한 시장 기회를 제공합니다. 주요, 마이너, 이색 쌍에 접근하여 글로벌 경제 동향을 활용하고 위험을 헤지하며 24/5 분산 시장에서 전략을 실행할 수 있습니다."
+          }
+        },
+        "serviceD2": {
+          "content1": {
+            "title": "거래 계정 소개",
+            "description": "여러 계정 유형 중에서 선택하세요. 초보자든 경험자든 경쟁력 있는 스프레드와 고급 도구를 제공합니다. 데모 계정으로 위험 없이 연습하고, 전문가 계정으로 빠른 실행과 낮은 스프레드를 경험하세요."
+          },
+          "content2": {
+            "title": "거래 계정의 혜택",
+            "description": "암호화폐 시장에 원활하게 접근하고 안전한 거래, 실시간 분석, 수익 극대화를 위한 전략적 기회를 제공합니다."
+          }
+        },
+        "serviceD4": {
+          "content1": {
+            "title": "모니터링 및 지원 소개",
+            "description": "실시간 시장 모니터링 도구로 가격 변동을 파악하세요. 24/7 고객 지원팀이 계정 관리, 주문 실행, 기술 지원을 위해 항상 준비되어 있습니다."
+          },
+          "content2": {
+            "title": "모니터링 및 지원의 혜택",
+            "description": "정기적인 모니터링과 전문가 지원으로 변동성 있는 시장에서 위험을 완화하고 기회를 잡으며 수익을 극대화하세요."
+          }
+        },
+        "serviceD5": {
+          "content1": {
+            "title": "교육 및 훈련 소개",
+            "description": "암호화폐 및 금융 시장을 탐색하는 데 필요한 지식과 기술을 제공합니다. 기본/기술적 분석, 위험 관리 전략, 실전 거래 시뮬레이션을 포함합니다."
+          },
+          "content2": {
+            "title": "교육 및 훈련의 혜택",
+            "description": "올바른 교육은 필수 시장 통찰력, 위험 관리 기술, 전략적 계획을 제공합니다. 전문가 지도로 역동적인 시장에서 수익을 극대화하세요."
+          }
+        },
+        "benefits": {
+          "diversification": {
+            "title": "다각화",
+            "shortDesc": "Premier 플랫폼은 외환, 주식, 암호화폐 등 다양한 분야를 제공하여 글로벌 투자자의 요구를 충족합니다.",
+            "longDesc": "다양한 거래 파트너가 시장 깊이와 안정성을 강화합니다"
+          },
+          "globalExposure": {
+            "title": "글로벌 접근",
+            "shortDesc": "Premier 플랫폼은 강력한 유동성과 안정적인 거래 환경으로 글로벌 사용자에게 원활한 경험을 제공합니다.",
+            "longDesc": "타의 추종을 불허하는 유동성으로 글로벌 사용자 커버리지"
+          },
+          "technicalAnalysis": {
+            "title": "기술적 분석",
+            "shortDesc": "빅데이터와 AI를 통합한 실시간 시장 업데이트로 정확한 통찰력을 제공합니다.",
+            "longDesc": "첨단 기술 지원으로 안정적인 거래 경험 보장"
+          },
+          "profitPotential": {
+            "title": "수익 잠재력",
+            "shortDesc": "1:400 레버리지로 작은 자본으로 더 큰 시장 기회에 접근하고 효율성을 높이세요.",
+            "longDesc": "더 넓은 시장에서 높은 수익을 달성할 수 있도록 지원합니다"
+          }
+        },
+        "features": [
+          "진행 상황 평가",
+          "지속적인 개선",
+          "24/7 고객 지원"
+        ],
+        "whatsProvided": {
+          "title": "제공되는 것",
+          "description": "실시간 시장 분석부터 유연한 레버리지까지 성공을 위한 모든 도구를 제공합니다. 다양한 통화로 편리하게 입금하고 거래에 집중하세요."
+        },
+        "tabs": {
+          "pairSelection": "통화 쌍 선택",
+          "majorCurrencyPair": "인기 거래 쌍",
+          "minorExoticPairs": "마이너 & 이색 쌍",
+          "marketAnalysis": "시장 분석",
+          "leverageMargin": "레버리지 & 마진",
+          "tabContent": {
+            "features": [
+              "전략에 맞는 주요, 마이너, 이색 쌍을 선택하세요.",
+              "XAUUSD와 같이 변동성과 유동성이 높은 인기 쌍을 거래하세요.",
+              "전문가 통찰력으로 시장 트렌드를 예측하세요.",
+              "레버리지와 마진을 이해하고 거래 효율성을 높이세요."
+            ]
+          }
+        },
+        "cryptoInvestment": {
+          "title": "암호화폐 투자는 어떻게 작동하나요?",
+          "description": "블록체인 기술을 활용한 디지털 자산 투자로 가치 상승을 노리세요. 위험을 이해하고 정보에 기반한 결정을 내리세요.",
+          "steps": {
+            "openAccount": {
+              "title": "거래 계정 개설",
+              "description": "신뢰할 수 있는 거래소에서 계정을 생성하고 신원을 확인하세요."
+            },
+            "fundTransfer": {
+              "title": "안전한 자금 이체",
+              "description": "은행 송금, 신용 카드, 암호화폐로 자금을 입금하세요."
+            },
+            "exploreCrypto": {
+              "title": "암호화폐 시장 탐색",
+              "description": "다양한 코인을 연구하고 시장 트렌드를 분석하여 투자하세요."
+            }
+          }
+        }
+      },
+    "OurServices": {
+        "pageTitle": "서비스",
+        "service1": {
+            "label": "서비스 #1",
+            "title": "시장 분석 및 전략",
+            "description": "전략적 거래 기회를 식별하기 위한 암호화폐 시장의 전문적인 기술 및 기본 분석.",
+            "button": "자세히 보기"
+        },
+        "service2": {
+            "label": "서비스 #2",
+            "title": "포트폴리오 관리",
+            "description": "위험 평가 및 다각화 전략을 포함한 종합적인 암호화폐 포트폴리오 관리 서비스.",
+            "button": "자세히 보기"
+        },
+        "service3": {
+            "label": "서비스 #3",
+            "title": "고급 거래 도구",
+            "description": "실시간 분석 및 자동화된 거래 기능을 갖춘 정교한 암호화폐 거래 플랫폼에 대한 접근.",
+            "button": "자세히 보기"
+        },
+        "service4": {
+            "label": "서비스 #4",
+            "title": "보안 및 위험 관리",
+            "description": "암호화폐 투자를 보호하기 위한 포괄적인 보안 프로토콜 및 위험 관리 전략.",
+            "button": "자세히 보기"
+        },
+        "service5": {
+            "label": "서비스 #5",
+            "title": "투자 교육",
+            "description": "암호화폐 시장 이해와 거래를 위한 포괄적인 교육 자료 및 트레이닝 프로그램.",
+            "button": "자세히 보기"
+        },
+        "service6": {
+            "label": "서비스 #6",
+            "title": "시장 정보",
+            "description": "최신 암호화폐 시장 연구, 트렌드 분석 및 실행 가능한 투자 인사이트.",
+            "button": "자세히 보기"
+        },
+        "cta": {
+            "title": "서비스에 대해 궁금하신 점이 있으신가요?",
+            "description": "맞춤형 암호화폐 투자 가이드를 위해 전문가 팀에게 문의하세요.",
+            "emailLabel": "이메일",
+            "email": "info@premiertradingplatform.com"
+        }
+    },
+    "AboutPage": {
+        "breadcrumbTitle": "회사 소개",
+        "mainTitle": "프리미어 페이먼트 솔루션 주식회사 소개",
+        "subTitle": "독점 외환 거래의 선두주자",
+        "description": "우리의 외환 회사는 혁신적인 거래 솔루션, 전문가 분석 및 탁월한 고객 지원을 제공하여 트레이더들이 역동적인 외환 시장에서 성공할 수 있도록 돕습니다.",
+        "awards": {
+            "globalForex": {
+                "title": "글로벌 포렉스 어워드",
+                "date": "2023년 3월"
+            },
+            "customerService": {
+                "title": "최고의 고객 서비스",
+                "date": "2022년 6월"
+            }
+        },
+        "ceoInfo": {
+            "name": "타이무르 이크발",
+            "title": "CEO 및 설립자",
+            "description": "필연적으로 발생할 어려움과 문제를 예견합니다."
+        },
+        "experience": {
+            "years": "10+",
+            "title": "년",
+            "subtitle": "시장 경험"
+        },
+        "performance": {
+            "title": "작년 성공률",
+            "value": "84.65%",
+            "increase": "+6.39%"
+        },
+        "corporateJourney": {
+            "title": "기업 여정",
+            "subtitle": "외환 세계에서 우리는 선두를 달립니다",
+            "evolution": {
+                "title": "진화",
+                "description": "고통 그 자체를 사랑하거나 추구하는 사람은 없습니다."
+            }
+        },
+        "stats": {
+            "payoutTime": {
+                "value": "24",
+                "unit": "시간",
+                "description": "평균 지급 처리 시간"
+            },
+            "accountEarning": {
+                "value": "1",
+                "unit": "일",
+                "description": "거래 계좌 획득 시간"
+            },
+            "trades": {
+                "value": "900",
+                "unit": "백만",
+                "description": "지난 달 개설된 거래 수"
+            },
+            "fundingExperience": {
+                "value": "10+",
+                "unit": "년",
+                "description": "선물 거래자 자금 지원"
+            }
+        },
+        "statements": {
+            "title": "성명서",
+            "subtitle": "우리 외환 회사의 지도 원칙",
+            "mission": {
+                "title": "우리의 미션",
+                "description": "불쾌한 결과가 없는 즐거움을 선택하거나 고통을 피하는 사람."
+            },
+            "vision": {
+                "title": "우리의 비전",
+                "description": "의지가 약해 의무를 다하지 못하는 사람들에게도 동일한 책임이 있습니다."
+            },
+            "coreValues": {
+                "title": "우리의 핵심 가치",
+                "description": "불쾌한 결과가 없는 즐거움을 선택한 사람의 결함을 찾으세요.",
+                "values": [
+                    "정직성",
+                    "고객 중심",
+                    "혁신",
+                    "리스크 관리",
+                    "전문성"
+                ]
+            }
+        },
+        "team": {
+            "title": "팀 멤버",
+            "subtitle": "우리의 성공을 이끄는 팀",
+            "members": [
+                {
+                    "name": "타이무르 이크발",
+                    "role": "설립자",
+                    "description": "필연적으로 발생할 어려움과 문제를 예견합니다."
+                },
+                {
+                    "name": "제럴드 아이버",
+                    "role": "재무 이사",
+                    "description": "우리가 가장 좋아하는 일을 할 수 있는 능력, 모든 즐거움이 일어납니다."
+                },
+                {
+                    "name": "노라 릴리안",
+                    "role": "거래 책임자",
+                    "description": "이러한 문제에서 이 선택의 원칙을 유지합니다."
+                },
+                {
+                    "name": "미할 스타크",
+                    "role": "시장 분석가",
+                    "description": "더 큰 즐거움을 확보하기 위해 즐거움을 거부합니다."
+                }
+            ]
+        }
+    },
+    "contactUs": {
+    "sendMessage": "메시지 보내기",
+    "getInTouch": "문의하기",
+    "assistMessage": "우리는 당신을 도울 준비가 되어 있습니다. 메시지를 보내주세요.",
+    "connectWithUs": "우리와 연결하기",
+    "companyEmail": "회사 이메일",
+    "emailAddress": "info@premiertradingplatform.com",
+    "officeAddress": "본사 주소",
+    "address": {
+        "street": "30 처칠 플레이스",
+        "city": "캐너리 워프, 런던",
+        "country": "영국, E14 5RE"
+    },
+    "customerService": "온라인 고객 서비스"
+}
+
+}
