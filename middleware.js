@@ -4,7 +4,7 @@ import { locales, defaultLocale } from './config';
 export default createMiddleware({
   locales: locales,
   defaultLocale: defaultLocale,
-  localePrefix: 'always', // Change to 'always' to ensure consistent routing
+  localePrefix: 'always', //Change to 'always' to ensure consistent routing
   // Configure cookie for active session persistence
   localeCookie: {
     name: 'preferredLocale',
