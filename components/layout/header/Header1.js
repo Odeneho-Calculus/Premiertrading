@@ -25,6 +25,10 @@ const options = [
 
 export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, handlePopup, handleSidebar }) {
     const [scroll, setScroll] = useState(false);
+    const router = useRouter();
+    const pathname = usePathname();
+    const currentLocale = useLocale();
+    const [isMobile, setIsMobile] = useState(false);
 
     useEffect(() => {
         const handleScroll = () => {
@@ -40,55 +44,54 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
             window.removeEventListener('scroll', handleScroll);
         };
     }, []);
-    const router = useRouter();
-    const pathname = usePathname();
-    const currentLocale = useLocale();
-    const [isMobile, setIsMobile] = useState(false);
+
+    // Handle tab/window close to reset language
+    useEffect(() => {
+        if (typeof window !== 'undefined') {
+            const handleTabClose = () => {
+                // Remove the cookie when the tab/window is closed
+                document.cookie = 'preferredLocale=en;path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT';
+            };
+
+            window.addEventListener('beforeunload', handleTabClose);
+            
+            return () => {
+                window.removeEventListener('beforeunload', handleTabClose);
+            };
+        }
+    }, []);
 
     const handleSelectChange = (selectedOption) => {
-
         const newLocale = selectedOption.value;
-    
+        
         if (newLocale !== currentLocale) {
-    
-            // Session cookie (no max-age)
-    
-            document.cookie = `preferredLocale=${newLocale};path=/;`;
-    
-            const pathWithoutLocale = pathname.replace(`/${currentLocale}`, "");
-    
-            const newPath = `/${newLocale}${pathWithoutLocale || '/'}`;
-    
-            router.push(newPath);
-    
+            try {
+                // Set session cookie (will persist until browser/tab closes)
+                document.cookie = `preferredLocale=${newLocale};path=/;sameSite=lax;${process.env.NODE_ENV === 'production' ? 'secure;' : ''}`;
+                
+                // Navigate to new locale
+                const pathWithoutLocale = pathname.replace(`/${currentLocale}`, "");
+                const newPath = `/${newLocale}${pathWithoutLocale || '/'}`;
+                router.push(newPath);
+            } catch (error) {
+                console.warn('Error setting language preference:', error);
+                // Still attempt to navigate even if cookie setting fails
+                const pathWithoutLocale = pathname.replace(`/${currentLocale}`, "");
+                const newPath = `/${newLocale}${pathWithoutLocale || '/'}`;
+                router.push(newPath);
+            }
         }
-    
     };
 
-    // Check for stored language preference on component mount
-   /* useEffect(() => {
-        const cookies = document.cookie.split(';');
-        const storedLocale = cookies
-            .find(cookie => cookie.trim().startsWith('preferredLocale='))
-            ?.split('=')[1];
-            
-        if (storedLocale && storedLocale !== currentLocale) {
-            const pathWithoutLocale = pathname.replace(`/${currentLocale}`, "");
-            const newPath = `/${storedLocale}${pathWithoutLocale || '/'}`;
-            router.push(newPath);
-        }
-    }, []);*/
-
     const handleResize = () => {
-        setIsMobile(window.innerWidth < 768); // Adjust the breakpoint as needed
+        setIsMobile(window.innerWidth < 768);
     };
 
     useEffect(() => {
-        handleResize(); // Check on mount
-        window.addEventListener('resize', handleResize); // Add event listener
-
+        handleResize();
+        window.addEventListener('resize', handleResize);
         return () => {
-            window.removeEventListener('resize', handleResize); // Cleanup on unmount
+            window.removeEventListener('resize', handleResize);
         };
     }, []);
 
@@ -161,7 +164,6 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
                 </div>
             </header>
             <MobileMenu handleMobileMenu={handleMobileMenu} />
-            {/* Add spacing to prevent content overlap when header is fixed */}
         </>
     );
 }
