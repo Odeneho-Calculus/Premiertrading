@@ -4,6 +4,12 @@ import { locales } from '../../config';
 import getMessages from '../../lib/getMessages';
 import { barlow, firaSans } from '../../lib/font';
 
+export const metadata = {
+  metadataBase: new URL('https://premiertrans.com'),
+  viewport: 'width=device-width, initial-scale=1.0',
+  charset: 'UTF-8'
+};
+
 // Import all required styles
 import 'public/assets/css/bootstrap.css';
 import 'public/assets/css/color.css';
@@ -50,10 +56,6 @@ export default async function LocaleLayout({ children, params: { locale } }) {
 
     return (
         <html lang={locale} className={`${firaSans.variable} ${barlow.variable}`}>
-            <head>
-                <meta charSet="UTF-8" />
-                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-            </head>
             <body suppressHydrationWarning={true}>
                 <NextIntlClientProvider 
                     locale={locale} 
