@@ -5,6 +5,7 @@ import CustomSelect from "../../elements/CustomSelect";
 import { useRouter, usePathname } from "next/navigation";
 import { useLocale } from "next-intl";
 import { useEffect, useState } from "react";
+import { locales } from "../../../config";
 
 const options = [
     { value: "en", label: "En" },
@@ -49,7 +50,6 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
     useEffect(() => {
         if (typeof window !== 'undefined') {
             const handleTabClose = () => {
-                // Remove the cookie when the tab/window is closed
                 document.cookie = 'preferredLocale=en;path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT';
             };
 
@@ -64,21 +64,24 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
     const handleSelectChange = (selectedOption) => {
         const newLocale = selectedOption.value;
         
-        if (newLocale !== currentLocale) {
+        if (newLocale !== currentLocale && locales.includes(newLocale)) {
             try {
-                // Set session cookie (will persist until browser/tab closes)
+                // Set session cookie
                 document.cookie = `preferredLocale=${newLocale};path=/;sameSite=lax;${process.env.NODE_ENV === 'production' ? 'secure;' : ''}`;
                 
-                // Navigate to new locale
-                const pathWithoutLocale = pathname.replace(`/${currentLocale}`, "");
-                const newPath = `/${newLocale}${pathWithoutLocale || '/'}`;
+                // Get the path segments
+                const segments = pathname.split('/');
+                // Remove the current locale from path
+                segments[1] = newLocale;
+                // Create new path with new locale
+                const newPath = segments.join('/');
+                
+                // Use router.push with the complete path
                 router.push(newPath);
             } catch (error) {
                 console.warn('Error setting language preference:', error);
-                // Still attempt to navigate even if cookie setting fails
-                const pathWithoutLocale = pathname.replace(`/${currentLocale}`, "");
-                const newPath = `/${newLocale}${pathWithoutLocale || '/'}`;
-                router.push(newPath);
+                // Fallback to direct navigation
+                router.push(`/${newLocale}`);
             }
         }
     };
@@ -116,7 +119,7 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
                                 flex: isMobile ? '0 0 auto' : '1'
                             }}>
                                 <figure className="logo" style={{ margin: 0 }}>
-                                    <Link href="/"><img src="/assets/images/icons/favicon.png" alt="Logo" width={40} height={40} /></Link>
+                                    <Link href={`/${currentLocale}`}><img src="/assets/images/icons/favicon.png" alt="Logo" width={40} height={40} /></Link>
                                 </figure>
                                 <p style={{ margin: 0, fontSize: '20px', fontWeight: 'bold' }}>PREMIER</p>
                             </div>

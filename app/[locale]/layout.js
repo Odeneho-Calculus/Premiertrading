@@ -1,41 +1,68 @@
-// app/[locale]/layout.js
 import { notFound } from 'next/navigation';
 import { NextIntlClientProvider } from 'next-intl';
-import getMessages from '@/lib/getMessages';
-import "@/node_modules/react-modal-video/css/modal-video.css";
-import "@/public/assets/css/bootstrap.css";
-import "@/public/assets/css/color.css";
-import "@/public/assets/css/style.css";
+import { locales } from '../../config';
+import getMessages from '../../lib/getMessages';
+import { barlow, firaSans } from '../../lib/font';
+
+// Import all required styles
+import 'public/assets/css/bootstrap.css';
+import 'public/assets/css/color.css';
+import 'public/assets/css/style.css';
+import 'public/assets/css/font-awesome-all.css';
+import 'public/assets/css/flaticon.css';
+import 'public/assets/css/animate.css';
 import 'swiper/css';
 import "swiper/css/pagination";
 import 'swiper/css/free-mode';
-import { barlow, firaSans } from '@/lib/font';
+import 'react-modal-video/css/modal-video.css';
 
-export const metadata = {
-    title: 'Premier Payment Solutions LTD',
-    description: 'Excellent payment solutions for your business',
-};
+// Import original favicon
+import "app/favicon.ico";
 
-export default async function LocaleLayout({ children, params }) {
-    const { locale } = params; 
+// Validate locale at build time
+export function generateStaticParams() {
+  return locales.map((locale) => ({ locale }));
+}
 
-    if (!locale) {
+export default async function LocaleLayout({ children, params: { locale } }) {
+    // Validate locale
+    if (!locales.includes(locale)) {
         notFound();
     }
 
-    const messages = await getMessages(locale);
-
-    // 🔥 Debugging: Ensure messages exist  
-    if (!messages || Object.keys(messages).length === 0) {
-        console.error(`⚠️ No messages found for locale: ${locale}`);
+    let messages;
+    try {
+        messages = await getMessages(locale);
+        
+        // Validate messages
+        if (!messages || Object.keys(messages).length === 0) {
+            console.error(`No messages found for locale: ${locale}`);
+            // Try to fall back to English
+            messages = await getMessages('en');
+            if (!messages || Object.keys(messages).length === 0) {
+                notFound();
+            }
+        }
+    } catch (error) {
+        console.error(`Error loading messages for ${locale}:`, error);
         notFound();
     }
 
     return (
         <html lang={locale} className={`${firaSans.variable} ${barlow.variable}`}>
+            <head>
+                <meta charSet="UTF-8" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            </head>
             <body suppressHydrationWarning={true}>
-                <NextIntlClientProvider locale={locale} messages={messages}>
-                    {children}
+                <NextIntlClientProvider 
+                    locale={locale} 
+                    messages={messages}
+                    timeZone="UTC"
+                >
+                    <div id="wrapper" className="boxed_wrapper">
+                        {children}
+                    </div>
                 </NextIntlClientProvider>
             </body>
         </html>
