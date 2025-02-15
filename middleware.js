@@ -11,9 +11,10 @@ export default createMiddleware({
     name: 'NEXT_LOCALE',
     options: {
       path: '/',
-      sameSite: 'strict',
+      sameSite: 'lax',
       secure: process.env.NODE_ENV === 'production',
-      httpOnly: true // Make it HTTP only to prevent JS manipulation
+      httpOnly: false, // Allow JS access
+      expires: undefined // Makes it a session cookie
     }
   }
 });

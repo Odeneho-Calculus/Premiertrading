@@ -46,23 +46,15 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
         };
     }, []);
 
-
     useEffect(() => {
-        // Check sessionStorage for saved locale on mount and path change
+        // Check for saved locale in sessionStorage on mount
         if (typeof window !== 'undefined') {
             const savedLocale = sessionStorage.getItem('NEXT_LOCALE');
             if (savedLocale && savedLocale !== currentLocale) {
-                // Get current path segments
                 const segments = pathname.split('/');
-                const currentPath = segments.slice(2).join('/');
-                
-                // Construct new path with saved locale
-                const newPath = currentPath ? `/${savedLocale}/${currentPath}` : `/${savedLocale}`;
-                
-                // Only redirect if we're not already on the correct path
-                if (pathname !== newPath) {
-                    window.location.replace(newPath);
-                }
+                segments[1] = savedLocale;
+                const newPath = segments.join('/');
+                window.location.replace(newPath);
             }
         }
     }, [currentLocale, pathname]);
@@ -72,19 +64,19 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
         
         if (newLocale !== currentLocale && locales.includes(newLocale)) {
             try {
-                // Save locale to sessionStorage (will be cleared when tab/browser closes)
+                // Save locale in sessionStorage (will be cleared when browser/tab closes)
                 sessionStorage.setItem('NEXT_LOCALE', newLocale);
                 
-                // Update URL maintaining the current path
+                // Get current path segments
                 const segments = pathname.split('/');
-                segments[1] = newLocale;
-                const newPath = segments.join('/');
+                const currentPath = segments.slice(2).join('/');
+                const newPath = currentPath ? `/${newLocale}/${currentPath}` : `/${newLocale}`;
                 
                 // Force a full page reload to ensure proper locale change
-                window.location.href = newPath;
+                window.location.replace(newPath);
             } catch (error) {
                 console.error('Error changing language:', error);
-                window.location.href = `/${newLocale}`;
+                window.location.replace(`/${newLocale}`);
             }
         }
     };
