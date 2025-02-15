@@ -46,42 +46,45 @@ export default function Header1({ isMobileMenu, handleMobileMenu, isSidebar, han
         };
     }, []);
 
-    // Handle tab/window close to reset language
-    useEffect(() => {
-        if (typeof window !== 'undefined') {
-            const handleTabClose = () => {
-                document.cookie = 'preferredLocale=en;path=/;expires=Thu, 01 Jan 1970 00:00:00 GMT';
-            };
 
-            window.addEventListener('beforeunload', handleTabClose);
-            
-            return () => {
-                window.removeEventListener('beforeunload', handleTabClose);
-            };
+    useEffect(() => {
+        // Check sessionStorage for saved locale on mount and path change
+        if (typeof window !== 'undefined') {
+            const savedLocale = sessionStorage.getItem('NEXT_LOCALE');
+            if (savedLocale && savedLocale !== currentLocale) {
+                // Get current path segments
+                const segments = pathname.split('/');
+                const currentPath = segments.slice(2).join('/');
+                
+                // Construct new path with saved locale
+                const newPath = currentPath ? `/${savedLocale}/${currentPath}` : `/${savedLocale}`;
+                
+                // Only redirect if we're not already on the correct path
+                if (pathname !== newPath) {
+                    window.location.replace(newPath);
+                }
+            }
         }
-    }, []);
+    }, [currentLocale, pathname]);
 
     const handleSelectChange = (selectedOption) => {
         const newLocale = selectedOption.value;
         
         if (newLocale !== currentLocale && locales.includes(newLocale)) {
             try {
-                // Set session cookie
-                document.cookie = `preferredLocale=${newLocale};path=/;sameSite=lax;${process.env.NODE_ENV === 'production' ? 'secure;' : ''}`;
+                // Save locale to sessionStorage (will be cleared when tab/browser closes)
+                sessionStorage.setItem('NEXT_LOCALE', newLocale);
                 
-                // Get the path segments
+                // Update URL maintaining the current path
                 const segments = pathname.split('/');
-                // Remove the current locale from path
                 segments[1] = newLocale;
-                // Create new path with new locale
                 const newPath = segments.join('/');
                 
-                // Use router.push with the complete path
-                router.push(newPath);
+                // Force a full page reload to ensure proper locale change
+                window.location.href = newPath;
             } catch (error) {
-                console.warn('Error setting language preference:', error);
-                // Fallback to direct navigation
-                router.push(`/${newLocale}`);
+                console.error('Error changing language:', error);
+                window.location.href = `/${newLocale}`;
             }
         }
     };

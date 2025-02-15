@@ -34,7 +34,7 @@ export default async function LocaleLayout({ children, params }) {
     return (
         <html lang={locale} className={`${firaSans.variable} ${barlow.variable}`}>
             <body suppressHydrationWarning={true}>
-                <NextIntlClientProvider locale={locale} messages={messages}>
+                <NextIntlClientProvider messages={messages}>
                     {children}
                 </NextIntlClientProvider>
             </body>

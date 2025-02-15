@@ -4,29 +4,20 @@ import { locales, defaultLocale } from './config';
 export default createMiddleware({
   locales: locales,
   defaultLocale: defaultLocale,
-  localePrefix: 'always', //Change to 'always' to ensure consistent routing
-  // Configure cookie for active session persistence
+  localePrefix: 'always',
+  localeDetection: false,
+  // Cookie configuration for session persistence
   localeCookie: {
-    name: 'preferredLocale',
+    name: 'NEXT_LOCALE',
     options: {
       path: '/',
-      sameSite: 'lax',
-      secure: process.env.NODE_ENV === 'production'
+      sameSite: 'strict',
+      secure: process.env.NODE_ENV === 'production',
+      httpOnly: true // Make it HTTP only to prevent JS manipulation
     }
-  },
-  localeDetection: (request) => {
-    const storedLocale = request.cookies.get('preferredLocale')?.value;
-    
-    // If valid locale exists in cookie, use it
-    if (storedLocale && locales.includes(storedLocale)) {
-      return storedLocale;
-    }
-
-    return defaultLocale;
   }
 });
 
-// Update matcher to handle all routes properly
 export const config = {
   matcher: ['/', '/((?!api|_next|.*\\..*).*)']
 };
